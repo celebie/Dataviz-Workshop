@@ -24,6 +24,24 @@
 * Filtraggio dei dati per provincia
 * Debugging
 
+### sketch_03_loadimage
+* Creazione funzione getData();
+* loadImage()
+
+### sketch_04_displayData
+* Coordinate delle città
+  * Verona: 190, 520
+  * Vicenza: 320, 430
+  * Padova: 400, 550
+  * Rovigo: 420, 660
+  * Venezia: 540, 530
+  * Treviso: 500, 380
+  * Belluno: 480, 200
+* Funzione map()
+* Dimensione dei cerchi mappata.
+
 ## TODO
-* Importare immagine in Processing -> Visualizzazione dati generali province
 * Visualizzazione dei dati per ciascuna provincia -> Bar Graph per evidenziare differenze tipologie
+* Variazioni sketch_04_displayData: map valori su colore anziché dimensione
+* Interazione con mouse: se mouseOver, disegnare Bar Graph in alto
+* Interazione con mouse 2: se mouseOver, ingrandire cerchio e disegnare PieChart diviso per tipologie
