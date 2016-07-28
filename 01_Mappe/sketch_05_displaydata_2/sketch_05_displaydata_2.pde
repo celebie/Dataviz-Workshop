@@ -1,6 +1,6 @@
 /*
  * Data Visualization Workshop
- * 01_Mappe - 04_DisplayData
+ * 01_Mappe - 05_DisplayData_2
  * by Federico Pepe
  */
 
@@ -30,48 +30,66 @@ void setup() {
 
   getData();
 
-  // Display Data
-  int dataMin = min(province.valueArray());
-  int dataMax = max(province.valueArray());
-  int rangeMin = 15;
-  int rangeMax = 85;
-  int value;
-  float diameter;
+  displayData();
   
-  noStroke();
-  fill(#007AB5);
-
-  // VERONA
-  value = province.get("VERONA");
-  diameter = map(value, dataMin, dataMax, rangeMin, rangeMax);
-  ellipse(190, 520, diameter, diameter);
-  // VICENZA
-  value = province.get("VICENZA");
-  diameter = map(value, dataMin, dataMax, rangeMin, rangeMax);
-  ellipse(320, 430, diameter, diameter);
-  // PADOVA
-  value = province.get("PADOVA");
-  diameter = map(value, dataMin, dataMax, rangeMin, rangeMax);
-  ellipse(400, 550, diameter, diameter);
-  // VENEZIA
-  value = province.get("VENEZIA");
-  diameter = map(value, dataMin, dataMax, rangeMin, rangeMax);
-  ellipse(540, 530, diameter, diameter);
-  // ROVIGO
-  value = province.get("ROVIGO");
-  diameter = map(value, dataMin, dataMax, rangeMin, rangeMax);
-  ellipse(420, 660, diameter, diameter);
-  // TREVISO
-  value = province.get("TREVISO");
-  diameter = map(value, dataMin, dataMax, rangeMin, rangeMax);
-  ellipse(500, 380, diameter, diameter);
-  // BELLUNO
-  value = province.get("BELLUNO");
-  diameter = map(value, dataMin, dataMax, rangeMin, rangeMax);
-  ellipse(480, 200, diameter, diameter);
 }
 
 void draw() {
+}
+
+void displayData() {
+ 
+  int dataMin = min(province.valueArray());
+  int dataMax = max(province.valueArray());
+  int value;
+  float diameter = 35;
+  float percent;
+  color riempimento;
+  
+  noStroke();
+
+  // VERONA
+  value = province.get("VERONA");
+  percent = norm(value, dataMin, dataMax);
+  riempimento = lerpColor(#D8E6EC, #005A85, percent, HSB);
+  fill(riempimento);
+  ellipse(190, 520, diameter, diameter);
+  // VICENZA
+  value = province.get("VICENZA");
+  percent = norm(value, dataMin, dataMax);
+  riempimento = lerpColor(#D8E6EC, #005A85, percent, HSB);
+  fill(riempimento);
+  ellipse(320, 430, diameter, diameter);
+  // PADOVA
+  value = province.get("PADOVA");
+  percent = norm(value, dataMin, dataMax);
+  riempimento = lerpColor(#D8E6EC, #005A85, percent, HSB);
+  fill(riempimento);
+  ellipse(400, 550, diameter, diameter);
+  // VENEZIA
+  value = province.get("VENEZIA");
+  percent = norm(value, dataMin, dataMax);
+  riempimento = lerpColor(#D8E6EC, #005A85, percent, HSB);
+  fill(riempimento);
+  ellipse(540, 530, diameter, diameter);
+  // ROVIGO
+  value = province.get("ROVIGO");
+  percent = norm(value, dataMin, dataMax);
+  riempimento = lerpColor(#D8E6EC, #005A85, percent, HSB);
+  fill(riempimento);
+  ellipse(420, 660, diameter, diameter);
+  // TREVISO
+  value = province.get("TREVISO");
+  percent = norm(value, dataMin, dataMax);
+  riempimento = lerpColor(#D8E6EC, #005A85, percent, HSB);
+  fill(riempimento);
+  ellipse(500, 380, diameter, diameter);
+  // BELLUNO
+  value = province.get("BELLUNO");
+  percent = norm(value, dataMin, dataMax);
+  riempimento = lerpColor(#D8E6EC, #005A85, percent, HSB);
+  fill(riempimento);
+  ellipse(480, 200, diameter, diameter);
 }
 
 void getData() {

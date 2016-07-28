@@ -28,7 +28,7 @@
 * Creazione funzione getData();
 * loadImage()
 
-### sketch_04_displayData
+### sketch_04_displaydata
 * Coordinate delle città
   * Verona: 190, 520
   * Vicenza: 320, 430
@@ -40,8 +40,15 @@
 * Funzione map()
 * Dimensione dei cerchi mappata.
 
+### sketch_05_displaydata_2
+Variazione sullo sketch precedente: i dati vengono riportati come variazione di colore e non come grandezza dell'ellisse
+* Creazione funzione displayData();
+* lerpColor() -> esempio con valori HSB
+* norm() -> Normalizza un numero in un range in un valore compreso tra 0 e 1
+
+
 ## TODO
 * Visualizzazione dei dati per ciascuna provincia -> Bar Graph per evidenziare differenze tipologie
 * Variazioni sketch_04_displayData: map valori su colore anziché dimensione
 * Interazione con mouse: se mouseOver, disegnare Bar Graph in alto
-* Interazione con mouse 2: se mouseOver, ingrandire cerchio e disegnare [PieChart](https://processing.org/examples/piechart.html) diviso per tipologie 
+* Interazione con mouse 2: se mouseOver, ingrandire cerchio e disegnare [PieChart](https://processing.org/examples/piechart.html) diviso per tipologie
