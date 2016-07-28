@@ -44,4 +44,4 @@
 * Visualizzazione dei dati per ciascuna provincia -> Bar Graph per evidenziare differenze tipologie
 * Variazioni sketch_04_displayData: map valori su colore anziché dimensione
 * Interazione con mouse: se mouseOver, disegnare Bar Graph in alto
-* Interazione con mouse 2: se mouseOver, ingrandire cerchio e disegnare PieChart diviso per tipologie
+* Interazione con mouse 2: se mouseOver, ingrandire cerchio e disegnare [PieChart](https://processing.org/examples/piechart.html) diviso per tipologie 
