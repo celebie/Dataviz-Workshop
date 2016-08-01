@@ -72,7 +72,7 @@ void displayData() {
   diameter = map(value, dataMin, dataMax, rangeMin, rangeMax);
   pieChart(482, 200, diameter, belluno.valueArray(), belluno.keyArray());
 
-  // TIPOLOGIE
+  // LEGENDA
   int barX = 40;
   int barY = 40;
   textSize(12);
