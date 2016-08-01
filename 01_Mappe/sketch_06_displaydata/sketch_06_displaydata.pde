@@ -1,6 +1,6 @@
 /*
  * Data Visualization Workshop
- * 01_Mappe - 04_DisplayData
+ * 01_Mappe - 06_DisplayData
  * by Federico Pepe
  */
 
@@ -19,54 +19,88 @@ int colTipologia = 2;
 void setup() {
   size(800, 800);
   background(255);
-
+  
   map = loadImage("mappa_veneto.png");
   image(map, 50, 50);
 
   getData();
 
-  // Display Data
-  int dataMin = min(province.valueArray());
-  int dataMax = max(province.valueArray());
-  int rangeMin = 15;
-  int rangeMax = 85;
-  int value;
-  float diameter;
-  
-  noStroke();
-  fill(#007AB5);
-
-  // VERONA
-  value = province.get("VERONA");
-  diameter = map(value, dataMin, dataMax, rangeMin, rangeMax);
-  ellipse(190, 520, diameter, diameter);
-  // VICENZA
-  value = province.get("VICENZA");
-  diameter = map(value, dataMin, dataMax, rangeMin, rangeMax);
-  ellipse(320, 430, diameter, diameter);
-  // PADOVA
-  value = province.get("PADOVA");
-  diameter = map(value, dataMin, dataMax, rangeMin, rangeMax);
-  ellipse(400, 550, diameter, diameter);
-  // VENEZIA
-  value = province.get("VENEZIA");
-  diameter = map(value, dataMin, dataMax, rangeMin, rangeMax);
-  ellipse(540, 530, diameter, diameter);
-  // ROVIGO
-  value = province.get("ROVIGO");
-  diameter = map(value, dataMin, dataMax, rangeMin, rangeMax);
-  ellipse(420, 660, diameter, diameter);
-  // TREVISO
-  value = province.get("TREVISO");
-  diameter = map(value, dataMin, dataMax, rangeMin, rangeMax);
-  ellipse(500, 380, diameter, diameter);
-  // BELLUNO
-  value = province.get("BELLUNO");
-  diameter = map(value, dataMin, dataMax, rangeMin, rangeMax);
-  ellipse(480, 200, diameter, diameter);
+  displayData();
 }
 
 void draw() {
+}
+
+void displayData() {
+
+  int dataMin = min(province.valueArray());
+  int dataMax = max(province.valueArray());
+  int value;
+  float diameter = 35;
+  float percent;
+  color riempimento;
+
+  noStroke();
+
+  // VERONA
+  value = province.get("VERONA");
+  percent = norm(value, dataMin, dataMax);
+  riempimento = lerpColor(#D8E6EC, #005A85, percent, HSB);
+  fill(riempimento);
+  ellipse(190, 520, diameter, diameter);
+  // VICENZA
+  value = province.get("VICENZA");
+  percent = norm(value, dataMin, dataMax);
+  riempimento = lerpColor(#D8E6EC, #005A85, percent, HSB);
+  fill(riempimento);
+  ellipse(320, 430, diameter, diameter);
+  // PADOVA
+  value = province.get("PADOVA");
+  percent = norm(value, dataMin, dataMax);
+  riempimento = lerpColor(#D8E6EC, #005A85, percent, HSB);
+  fill(riempimento);
+  ellipse(400, 550, diameter, diameter);
+  // VENEZIA
+  value = province.get("VENEZIA");
+  percent = norm(value, dataMin, dataMax);
+  riempimento = lerpColor(#D8E6EC, #005A85, percent, HSB);
+  fill(riempimento);
+  ellipse(540, 530, diameter, diameter);
+  // ROVIGO
+  value = province.get("ROVIGO");
+  percent = norm(value, dataMin, dataMax);
+  riempimento = lerpColor(#D8E6EC, #005A85, percent, HSB);
+  fill(riempimento);
+  ellipse(420, 660, diameter, diameter);
+  // TREVISO
+  value = province.get("TREVISO");
+  percent = norm(value, dataMin, dataMax);
+  riempimento = lerpColor(#D8E6EC, #005A85, percent, HSB);
+  fill(riempimento);
+  ellipse(500, 380, diameter, diameter);
+  // BELLUNO
+  value = province.get("BELLUNO");
+  percent = norm(value, dataMin, dataMax);
+  riempimento = lerpColor(#D8E6EC, #005A85, percent, HSB);
+  fill(riempimento);
+  ellipse(480, 200, diameter, diameter);
+
+  // TIPOLOGIE
+  int barX = 150;
+  int barY = 70;
+  fill(0);
+  String title = "Strutture ricettive del Veneto";
+  textSize(32);
+  text(title, 15, 45);
+  textSize(12);
+  fill(#005A85);
+  for (int i = 0; i < tipologie.size(); i++) {
+    String[] keys = tipologie.keyArray(); 
+    textAlign(RIGHT, CENTER);
+    text(keys[i], barX-5, barY + 8);
+    rect(barX, barY, float(tipologie.get(keys[i])/25), 20);
+    barY += 25;
+  }
 }
 
 void getData() {

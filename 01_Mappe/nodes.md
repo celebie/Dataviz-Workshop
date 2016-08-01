@@ -40,15 +40,19 @@
 * Funzione map()
 * Dimensione dei cerchi mappata.
 
-### sketch_05_displaydata_2
+### sketch_05_displaydata
 Variazione sullo sketch precedente: i dati vengono riportati come variazione di colore e non come grandezza dell'ellisse
 * Creazione funzione displayData();
 * lerpColor() -> esempio con valori HSB
 * norm() -> Normalizza un numero in un range in un valore compreso tra 0 e 1
 
+### sketch_06_displaydata
+Aggiunta BarGraph per rappresentare tutto il veneto
+* keyArray()
+* titolo
+
 
 ## TODO
 * Visualizzazione dei dati per ciascuna provincia -> Bar Graph per evidenziare differenze tipologie
-* Variazioni sketch_04_displayData: map valori su colore anziché dimensione
 * Interazione con mouse: se mouseOver, disegnare Bar Graph in alto
 * Interazione con mouse 2: se mouseOver, ingrandire cerchio e disegnare [PieChart](https://processing.org/examples/piechart.html) diviso per tipologie

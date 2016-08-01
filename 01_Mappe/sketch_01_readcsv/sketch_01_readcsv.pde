@@ -11,11 +11,6 @@ IntDict province, tipologie;
 int colProvincia = 0;
 int colComune = 1;
 int colTipologia = 2;
-int colStelle = 3;
-int colNome = 4;
-int colIndirizzo = 5;
-int colCivico = 6;
-int colCAP = 7;
 
 void setup() {
   
