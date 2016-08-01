@@ -1,6 +1,6 @@
 /*
  * Data Visualization Workshop
- * 01_Mappe - 07_PieChart
+ * 01_Mappe - 08_PieChart_Interactive
  * by Federico Pepe
  */
 
@@ -21,16 +21,49 @@ void setup() {
   background(255);
   pixelDensity(2);
   map = loadImage("mappa_veneto.png");
-  image(map, 50, 50);
-  
+ 
   getData();
-  
-  displayData();
   
 }
 
 void draw() {
+  background(255);
+  image(map, 50, 50);
+  isMouseOver();
+  displayData();
   
+}
+
+void isMouseOver() {
+  if(dist(mouseX, mouseY, 190, 520) <= 100) {
+    barGraph(verona);
+  } else if(dist(mouseX, mouseY, 305, 430) <= 50) {
+    barGraph(vicenza);
+  } else if(dist(mouseX, mouseY, 405, 550) <= 50) {
+    barGraph(padova);
+  } else if(dist(mouseX, mouseY, 540, 530) <= 50) {
+    barGraph(venezia);
+  } else if(dist(mouseX, mouseY, 500, 380) <= 50) {
+    barGraph(treviso);
+  } else if(dist(mouseX, mouseY, 420, 665) <= 50) {
+    barGraph(rovigo);
+  } else if(dist(mouseX, mouseY, 482, 200) <= 50) {
+    barGraph(belluno);
+  }
+}
+
+void barGraph(IntDict city) {
+  // TIPOLOGIE
+  int barX = 40;
+  int barY = 40;
+  textSize(12);
+  
+  for (int i = 0; i < city.size(); i++) {
+    String[] keys = city.keyArray(); 
+    fill(getColor(keys[i]));
+    rect(barX-5, barY+14, int(city.get(keys[i])/4), 5);
+    barY += 25;
+  }
 }
 
 void displayData() {
