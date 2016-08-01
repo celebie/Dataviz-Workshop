@@ -51,6 +51,12 @@ Aggiunta BarGraph per rappresentare tutto il veneto
 * keyArray()
 * titolo
 
+### sketch_07_piechart
+Riprendendo lo sketch_04_displaydata, ora i dati di ciascuna regione vengono visualizzati in un grafico a torta. C'è un grosso problema per la scelta ideale dei colori essendo rappresentati molti dati. Alla fine ho usato il tool [ColorBrewer](http://colorbrewer2.org).
+* [PieChart](https://processing.org/examples/piechart.html) diviso per tipologie e città.
+* Miglioramento del codice: getColor(), pieChart()
+* Inserimento della legenda
+* displayData più chiara e semplice
 
 ## TODO
 * Visualizzazione dei dati per ciascuna provincia -> Bar Graph per evidenziare differenze tipologie

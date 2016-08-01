@@ -1,6 +1,6 @@
 /*
  * Data Visualization Workshop
- * 01_Mappe - 05_DisplayData_2
+ * 01_Mappe - 05_DisplayData
  * by Federico Pepe
  */
 
@@ -26,21 +26,21 @@ void setup() {
   getData();
 
   displayData();
-  
+
 }
 
 void draw() {
 }
 
 void displayData() {
- 
+
   int dataMin = min(province.valueArray());
   int dataMax = max(province.valueArray());
   int value;
   float diameter = 35;
   float percent;
   color riempimento;
-  
+
   noStroke();
 
   // VERONA
@@ -98,9 +98,9 @@ void getData() {
   belluno = new IntDict();
   padova = new IntDict();
   rovigo = new IntDict();
-  treviso = new IntDict(); 
+  treviso = new IntDict();
   venezia = new IntDict();
-  verona = new IntDict(); 
+  verona = new IntDict();
   vicenza = new IntDict();
 
   // Acquisiamo tutti i dati della tabella

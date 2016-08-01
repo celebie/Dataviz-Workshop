@@ -91,7 +91,7 @@ void displayData() {
   fill(0);
   String title = "Strutture ricettive del Veneto";
   textSize(32);
-  text(title, 15, 45);
+  text(title, 15, 40);
   textSize(12);
   fill(#005A85);
   for (int i = 0; i < tipologie.size(); i++) {
