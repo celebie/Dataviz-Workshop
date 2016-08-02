@@ -6,8 +6,11 @@ Fonte Dati: [Densità Territoriale](http://dati.veneto.it/dataset/densita-territ
 
 ### tempo_01_filtercsv
 * Filtrare i dati: dataMin - dataMax
-* cityName = table.findRow(str(codiceIstat),1).getString(2);
+* getData();
+* drawData();
+* mousePressed();
 
 ## TODO
+* da rivedere esercizio tempo_01_filtercsv per dividere in più esercizi?
 * Interazione: frecce per scorrere
 * Miglioramento: inserire tutti i dati in un unico array per poter migliorare la visualizzazione

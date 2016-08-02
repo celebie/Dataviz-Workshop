@@ -69,7 +69,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1990,23068,Salizzole,122.97
 1990,23069,San Bonifacio,466.42
 1990,23070,San Giovanni Ilarione,182.74
-1990,23071,San Giovanni Lupatoto,154.6
+1990,23071,San Giovanni Lupatoto,1054.6
 1990,23072,Sanguinetto,309.6
 1990,23073,San Martino Buon Albergo,380.43
 1990,23074,San Mauro di Saline,47.25
@@ -89,7 +89,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1990,23088,Trevenzuolo,88.33
 1990,23089,Valeggio sul Mincio,146.42
 1990,23090,Velo Veronese,44.0
-1990,23091,Verona,600.71
+1990,23091,Verona,1300.71
 1990,23092,Veronella,165.7
 1990,23093,Vestenanova,104.85
 1990,23094,Vigasio,194.67
@@ -201,7 +201,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1990,24102,Sossano,183.63
 1990,24103,Sovizzo,309.55
 1990,24104,Tezze sul Brenta,522.58
-1990,24105,Thiene,109.38
+1990,24105,Thiene,1009.38
 1990,24106,Tonezza del Cimone,45.99
 1990,24107,Torrebelvicino,236.52
 1990,24108,Torri di Quartesolo,523.95
@@ -211,7 +211,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1990,24113,Valli del Pasubio,73.8
 1990,24114,Valstagna,70.88
 1990,24115,Velo d'Astico,102.18
-1990,24116,Vicenza,658.85
+1990,24116,Vicenza,1358.85
 1990,24117,Villaga,75.34
 1990,24118,Villaverla,303.56
 1990,24119,Zanè,704.18
@@ -372,7 +372,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1990,26083,Susegana,221.43
 1990,26084,Tarzo,182.69
 1990,26085,Trevignano,309.27
-1990,26086,Treviso,931.46
+1990,26086,Treviso,1511.46
 1990,26087,Valdobbiadene,179.46
 1990,26088,Vazzola,221.1
 1990,26089,Vedelago,210.6
@@ -419,7 +419,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1990,27035,Santa Maria di Sala,388.34
 1990,27036,San Stino di Livenza,167.84
 1990,27037,Scorzè,468.13
-1990,27038,Spinea,1212.19
+1990,27038,Spinea,1672.19
 1990,27039,Stra,749.32
 1990,27040,Teglio Veneto,171.96
 1990,27041,Torre di Mosto,98.3
@@ -441,7 +441,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1990,28013,Borgoricco,289.7
 1990,28014,Bovolenta,136.11
 1990,28015,Brugine,263.79
-1990,28016,Cadoneghe,204.82
+1990,28016,Cadoneghe,1064.82
 1990,28017,Campodarsego,407.89
 1990,28018,Campodoro,170.97
 1990,28019,Camposampiero,441.39
@@ -483,9 +483,9 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1990,28055,Monselice,343.22
 1990,28056,Montagnana,213.14
 1990,28057,Montegrotto Terme,649.77
-1990,28058,Noventa Padovana,149.79
+1990,28058,Noventa Padovana,1049.79
 1990,28059,Ospedaletto Euganeo,235.59
-1990,28060,Padova,749.88
+1990,28060,Padova,2349.88
 1990,28061,Pernumia,276.29
 1990,28062,Piacenza d'Adige,81.82
 1990,28063,Piazzola sul Brenta,249.71
@@ -654,7 +654,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1991,23068,Salizzole,121.73
 1991,23069,San Bonifacio,462.34
 1991,23070,San Giovanni Ilarione,183.81
-1991,23071,San Giovanni Lupatoto,202.29
+1991,23071,San Giovanni Lupatoto,1062.29
 1991,23072,Sanguinetto,307.62
 1991,23073,San Martino Buon Albergo,377.13
 1991,23074,San Mauro di Saline,47.79
@@ -674,7 +674,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1991,23088,Trevenzuolo,87.51
 1991,23089,Valeggio sul Mincio,146.0
 1991,23090,Velo Veronese,43.5
-1991,23091,Verona,542.46
+1991,23091,Verona,1282.46
 1991,23092,Veronella,165.56
 1991,23093,Vestenanova,104.1
 1991,23094,Vigasio,196.68
@@ -786,7 +786,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1991,24102,Sossano,183.63
 1991,24103,Sovizzo,315.47
 1991,24104,Tezze sul Brenta,527.59
-1991,24105,Thiene,108.67
+1991,24105,Thiene,1008.67
 1991,24106,Tonezza del Cimone,46.2
 1991,24107,Torrebelvicino,237.24
 1991,24108,Torri di Quartesolo,529.15
@@ -796,7 +796,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1991,24113,Valli del Pasubio,73.11
 1991,24114,Valstagna,72.85
 1991,24115,Velo d'Astico,102.41
-1991,24116,Vicenza,633.81
+1991,24116,Vicenza,1333.81
 1991,24117,Villaga,76.9
 1991,24118,Villaverla,305.84
 1991,24119,Zanè,699.87
@@ -957,7 +957,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1991,26083,Susegana,220.4
 1991,26084,Tarzo,184.66
 1991,26085,Trevignano,311.7
-1991,26086,Treviso,921.17
+1991,26086,Treviso,1501.17
 1991,26087,Valdobbiadene,176.41
 1991,26088,Vazzola,216.87
 1991,26089,Vedelago,210.9
@@ -1004,7 +1004,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1991,27035,Santa Maria di Sala,395.42
 1991,27036,San Stino di Livenza,168.27
 1991,27037,Scorzè,470.2
-1991,27038,Spinea,1156.22
+1991,27038,Spinea,1656.22
 1991,27039,Stra,763.1
 1991,27040,Teglio Veneto,170.31
 1991,27041,Torre di Mosto,98.59
@@ -1026,7 +1026,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1991,28013,Borgoricco,294.29
 1991,28014,Bovolenta,136.64
 1991,28015,Brugine,267.21
-1991,28016,Cadoneghe,204.2
+1991,28016,Cadoneghe,1064.2
 1991,28017,Campodarsego,409.2
 1991,28018,Campodoro,173.57
 1991,28019,Camposampiero,446.99
@@ -1068,9 +1068,9 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1991,28055,Monselice,344.3
 1991,28056,Montagnana,209.54
 1991,28057,Montegrotto Terme,653.64
-1991,28058,Noventa Padovana,147.0
+1991,28058,Noventa Padovana,1047.0
 1991,28059,Ospedaletto Euganeo,235.82
-1991,28060,Padova,715.75
+1991,28060,Padova,2315.75
 1991,28061,Pernumia,275.91
 1991,28062,Piacenza d'Adige,80.47
 1991,28063,Piazzola sul Brenta,249.88
@@ -1239,7 +1239,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1992,23068,Salizzole,121.8
 1992,23069,San Bonifacio,463.76
 1992,23070,San Giovanni Ilarione,183.29
-1992,23071,San Giovanni Lupatoto,206.3
+1992,23071,San Giovanni Lupatoto,1066.3
 1992,23072,Sanguinetto,303.59
 1992,23073,San Martino Buon Albergo,375.48
 1992,23074,San Mauro di Saline,47.79
@@ -1259,7 +1259,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1992,23088,Trevenzuolo,86.77
 1992,23089,Valeggio sul Mincio,147.94
 1992,23090,Velo Veronese,42.95
-1992,23091,Verona,543.36
+1992,23091,Verona,1283.36
 1992,23092,Veronella,164.74
 1992,23093,Vestenanova,104.6
 1992,23094,Vigasio,197.72
@@ -1371,7 +1371,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1992,24102,Sossano,184.87
 1992,24103,Sovizzo,321.13
 1992,24104,Tezze sul Brenta,534.32
-1992,24105,Thiene,115.36
+1992,24105,Thiene,1015.36
 1992,24106,Tonezza del Cimone,45.85
 1992,24107,Torrebelvicino,239.26
 1992,24108,Torri di Quartesolo,537.19
@@ -1381,7 +1381,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1992,24113,Valli del Pasubio,73.3
 1992,24114,Valstagna,72.77
 1992,24115,Velo d'Astico,103.13
-1992,24116,Vicenza,635.83
+1992,24116,Vicenza,1335.83
 1992,24117,Villaga,77.8
 1992,24118,Villaverla,309.72
 1992,24119,Zanè,708.37
@@ -1542,7 +1542,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1992,26083,Susegana,221.5
 1992,26084,Tarzo,187.1
 1992,26085,Trevignano,316.12
-1992,26086,Treviso,908.86
+1992,26086,Treviso,1488.86
 1992,26087,Valdobbiadene,176.54
 1992,26088,Vazzola,217.44
 1992,26089,Vedelago,211.82
@@ -1589,7 +1589,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1992,27035,Santa Maria di Sala,406.58
 1992,27036,San Stino di Livenza,168.82
 1992,27037,Scorzè,477.17
-1992,27038,Spinea,1207.86
+1992,27038,Spinea,1667.86
 1992,27039,Stra,768.0
 1992,27040,Teglio Veneto,173.7
 1992,27041,Torre di Mosto,99.3
@@ -1611,7 +1611,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1992,28013,Borgoricco,297.22
 1992,28014,Bovolenta,136.9
 1992,28015,Brugine,272.93
-1992,28016,Cadoneghe,204.98
+1992,28016,Cadoneghe,1064.98
 1992,28017,Campodarsego,413.47
 1992,28018,Campodoro,176.34
 1992,28019,Camposampiero,451.92
@@ -1653,9 +1653,9 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1992,28055,Monselice,344.35
 1992,28056,Montagnana,210.5
 1992,28057,Montegrotto Terme,662.75
-1992,28058,Noventa Padovana,148.95
+1992,28058,Noventa Padovana,1048.95
 1992,28059,Ospedaletto Euganeo,236.2
-1992,28060,Padova,701.9
+1992,28060,Padova,2301.9
 1992,28061,Pernumia,277.81
 1992,28062,Piacenza d'Adige,79.61
 1992,28063,Piazzola sul Brenta,250.87
@@ -1824,7 +1824,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1993,23068,Salizzole,121.76
 1993,23069,San Bonifacio,471.3
 1993,23070,San Giovanni Ilarione,184.0
-1993,23071,San Giovanni Lupatoto,217.27
+1993,23071,San Giovanni Lupatoto,1077.27
 1993,23072,Sanguinetto,301.69
 1993,23073,San Martino Buon Albergo,374.74
 1993,23074,San Mauro di Saline,47.16
@@ -1844,7 +1844,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1993,23088,Trevenzuolo,86.55
 1993,23089,Valeggio sul Mincio,149.44
 1993,23090,Velo Veronese,42.48
-1993,23091,Verona,549.71
+1993,23091,Verona,1289.71
 1993,23092,Veronella,165.65
 1993,23093,Vestenanova,105.35
 1993,23094,Vigasio,200.55
@@ -1956,7 +1956,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1993,24102,Sossano,184.53
 1993,24103,Sovizzo,321.96
 1993,24104,Tezze sul Brenta,543.77
-1993,24105,Thiene,125.54
+1993,24105,Thiene,1025.54
 1993,24106,Tonezza del Cimone,46.13
 1993,24107,Torrebelvicino,242.5
 1993,24108,Torri di Quartesolo,542.77
@@ -1966,7 +1966,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1993,24113,Valli del Pasubio,72.68
 1993,24114,Valstagna,73.36
 1993,24115,Velo d'Astico,103.54
-1993,24116,Vicenza,642.44
+1993,24116,Vicenza,1342.44
 1993,24117,Villaga,79.5
 1993,24118,Villaverla,316.58
 1993,24119,Zanè,715.82
@@ -2127,7 +2127,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1993,26083,Susegana,224.72
 1993,26084,Tarzo,186.43
 1993,26085,Trevignano,317.44
-1993,26086,Treviso,856.5
+1993,26086,Treviso,1476.5
 1993,26087,Valdobbiadene,176.5
 1993,26088,Vazzola,218.48
 1993,26089,Vedelago,213.62
@@ -2174,7 +2174,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1993,27035,Santa Maria di Sala,414.7
 1993,27036,San Stino di Livenza,168.61
 1993,27037,Scorzè,480.84
-1993,27038,Spinea,1220.56
+1993,27038,Spinea,1680.56
 1993,27039,Stra,768.56
 1993,27040,Teglio Veneto,175.95
 1993,27041,Torre di Mosto,99.69
@@ -2196,7 +2196,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1993,28013,Borgoricco,300.59
 1993,28014,Bovolenta,138.27
 1993,28015,Brugine,281.92
-1993,28016,Cadoneghe,207.16
+1993,28016,Cadoneghe,1067.16
 1993,28017,Campodarsego,415.74
 1993,28018,Campodoro,178.41
 1993,28019,Camposampiero,459.71
@@ -2238,9 +2238,9 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1993,28055,Monselice,344.47
 1993,28056,Montagnana,209.45
 1993,28057,Montegrotto Terme,666.36
-1993,28058,Noventa Padovana,155.93
+1993,28058,Noventa Padovana,1055.93
 1993,28059,Ospedaletto Euganeo,236.34
-1993,28060,Padova,649.6
+1993,28060,Padova,2289.6
 1993,28061,Pernumia,282.22
 1993,28062,Piacenza d'Adige,79.29
 1993,28063,Piazzola sul Brenta,252.68
@@ -2409,7 +2409,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1994,23068,Salizzole,121.63
 1994,23069,San Bonifacio,473.43
 1994,23070,San Giovanni Ilarione,184.68
-1994,23071,San Giovanni Lupatoto,223.39
+1994,23071,San Giovanni Lupatoto,1083.39
 1994,23072,Sanguinetto,301.98
 1994,23073,San Martino Buon Albergo,373.3
 1994,23074,San Mauro di Saline,48.42
@@ -2429,7 +2429,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1994,23088,Trevenzuolo,86.4
 1994,23089,Valeggio sul Mincio,151.46
 1994,23090,Velo Veronese,42.6
-1994,23091,Verona,540.47
+1994,23091,Verona,1280.47
 1994,23092,Veronella,166.18
 1994,23093,Vestenanova,106.48
 1994,23094,Vigasio,201.46
@@ -2541,7 +2541,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1994,24102,Sossano,184.39
 1994,24103,Sovizzo,325.78
 1994,24104,Tezze sul Brenta,552.39
-1994,24105,Thiene,128.3
+1994,24105,Thiene,1028.3
 1994,24106,Tonezza del Cimone,45.51
 1994,24107,Torrebelvicino,243.15
 1994,24108,Torri di Quartesolo,546.84
@@ -2551,7 +2551,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1994,24113,Valli del Pasubio,72.38
 1994,24114,Valstagna,72.69
 1994,24115,Velo d'Astico,103.9
-1994,24116,Vicenza,641.59
+1994,24116,Vicenza,1341.59
 1994,24117,Villaga,78.66
 1994,24118,Villaverla,319.6
 1994,24119,Zanè,713.86
@@ -2712,7 +2712,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1994,26083,Susegana,226.2
 1994,26084,Tarzo,182.82
 1994,26085,Trevignano,319.21
-1994,26086,Treviso,843.3
+1994,26086,Treviso,1463.3
 1994,26087,Valdobbiadene,177.74
 1994,26088,Vazzola,224.9
 1994,26089,Vedelago,214.58
@@ -2759,7 +2759,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1994,27035,Santa Maria di Sala,423.64
 1994,27036,San Stino di Livenza,168.39
 1994,27037,Scorzè,484.89
-1994,27038,Spinea,1227.35
+1994,27038,Spinea,1687.35
 1994,27039,Stra,767.43
 1994,27040,Teglio Veneto,174.22
 1994,27041,Torre di Mosto,102.16
@@ -2781,7 +2781,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1994,28013,Borgoricco,302.93
 1994,28014,Bovolenta,138.54
 1994,28015,Brugine,288.56
-1994,28016,Cadoneghe,213.77
+1994,28016,Cadoneghe,1073.77
 1994,28017,Campodarsego,418.8
 1994,28018,Campodoro,177.24
 1994,28019,Camposampiero,461.75
@@ -2823,9 +2823,9 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1994,28055,Monselice,343.89
 1994,28056,Montagnana,209.7
 1994,28057,Montegrotto Terme,671.21
-1994,28058,Noventa Padovana,218.38
+1994,28058,Noventa Padovana,1078.38
 1994,28059,Ospedaletto Euganeo,235.22
-1994,28060,Padova,652.99
+1994,28060,Padova,2292.99
 1994,28061,Pernumia,284.88
 1994,28062,Piacenza d'Adige,79.2
 1994,28063,Piazzola sul Brenta,255.12
@@ -2994,7 +2994,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1995,23068,Salizzole,121.34
 1995,23069,San Bonifacio,475.79
 1995,23070,San Giovanni Ilarione,184.99
-1995,23071,San Giovanni Lupatoto,227.8
+1995,23071,San Giovanni Lupatoto,1087.8
 1995,23072,Sanguinetto,301.69
 1995,23073,San Martino Buon Albergo,373.17
 1995,23074,San Mauro di Saline,47.88
@@ -3014,7 +3014,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1995,23088,Trevenzuolo,86.77
 1995,23089,Valeggio sul Mincio,153.9
 1995,23090,Velo Veronese,41.74
-1995,23091,Verona,536.6
+1995,23091,Verona,1276.6
 1995,23092,Veronella,166.28
 1995,23093,Vestenanova,107.23
 1995,23094,Vigasio,203.9
@@ -3126,7 +3126,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1995,24102,Sossano,183.82
 1995,24103,Sovizzo,333.93
 1995,24104,Tezze sul Brenta,555.51
-1995,24105,Thiene,137.81
+1995,24105,Thiene,1037.81
 1995,24106,Tonezza del Cimone,45.3
 1995,24107,Torrebelvicino,247.19
 1995,24108,Torri di Quartesolo,550.7
@@ -3136,7 +3136,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1995,24113,Valli del Pasubio,71.69
 1995,24114,Valstagna,72.97
 1995,24115,Velo d'Astico,102.95
-1995,24116,Vicenza,639.62
+1995,24116,Vicenza,1339.62
 1995,24117,Villaga,78.66
 1995,24118,Villaverla,319.89
 1995,24119,Zanè,725.23
@@ -3297,7 +3297,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1995,26083,Susegana,227.29
 1995,26084,Tarzo,180.8
 1995,26085,Trevignano,321.32
-1995,26086,Treviso,842.97
+1995,26086,Treviso,1462.97
 1995,26087,Valdobbiadene,176.29
 1995,26088,Vazzola,225.62
 1995,26089,Vedelago,215.46
@@ -3344,7 +3344,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1995,27035,Santa Maria di Sala,428.68
 1995,27036,San Stino di Livenza,168.36
 1995,27037,Scorzè,490.33
-1995,27038,Spinea,1219.76
+1995,27038,Spinea,1679.76
 1995,27039,Stra,764.24
 1995,27040,Teglio Veneto,174.65
 1995,27041,Torre di Mosto,104.33
@@ -3366,7 +3366,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1995,28013,Borgoricco,302.88
 1995,28014,Bovolenta,139.64
 1995,28015,Brugine,294.89
-1995,28016,Cadoneghe,219.77
+1995,28016,Cadoneghe,1079.77
 1995,28017,Campodarsego,420.73
 1995,28018,Campodoro,179.66
 1995,28019,Camposampiero,464.36
@@ -3408,9 +3408,9 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1995,28055,Monselice,342.1
 1995,28056,Montagnana,210.65
 1995,28057,Montegrotto Terme,676.72
-1995,28058,Noventa Padovana,217.55
+1995,28058,Noventa Padovana,1077.55
 1995,28059,Ospedaletto Euganeo,236.6
-1995,28060,Padova,651.13
+1995,28060,Padova,2291.13
 1995,28061,Pernumia,284.95
 1995,28062,Piacenza d'Adige,79.72
 1995,28063,Piazzola sul Brenta,256.74
@@ -3579,7 +3579,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1996,23068,Salizzole,121.56
 1996,23069,San Bonifacio,478.12
 1996,23070,San Giovanni Ilarione,185.97
-1996,23071,San Giovanni Lupatoto,240.42
+1996,23071,San Giovanni Lupatoto,1100.42
 1996,23072,Sanguinetto,301.54
 1996,23073,San Martino Buon Albergo,373.14
 1996,23074,San Mauro di Saline,48.65
@@ -3599,7 +3599,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1996,23088,Trevenzuolo,86.85
 1996,23089,Valeggio sul Mincio,156.35
 1996,23090,Velo Veronese,41.79
-1996,23091,Verona,451.11
+1996,23091,Verona,1231.11
 1996,23092,Veronella,167.31
 1996,23093,Vestenanova,108.49
 1996,23094,Vigasio,206.4
@@ -3711,7 +3711,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1996,24102,Sossano,187.11
 1996,24103,Sovizzo,338.7
 1996,24104,Tezze sul Brenta,563.13
-1996,24105,Thiene,147.49
+1996,24105,Thiene,1047.49
 1996,24106,Tonezza del Cimone,44.53
 1996,24107,Torrebelvicino,249.1
 1996,24108,Torri di Quartesolo,553.38
@@ -3721,7 +3721,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1996,24113,Valli del Pasubio,72.72
 1996,24114,Valstagna,72.38
 1996,24115,Velo d'Astico,104.18
-1996,24116,Vicenza,645.77
+1996,24116,Vicenza,1345.77
 1996,24117,Villaga,79.48
 1996,24118,Villaverla,323.82
 1996,24119,Zanè,726.1
@@ -3882,7 +3882,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1996,26083,Susegana,229.13
 1996,26084,Tarzo,180.71
 1996,26085,Trevignano,325.76
-1996,26086,Treviso,843.96
+1996,26086,Treviso,1463.96
 1996,26087,Valdobbiadene,175.68
 1996,26088,Vazzola,227.93
 1996,26089,Vedelago,217.1
@@ -3929,7 +3929,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1996,27035,Santa Maria di Sala,437.2
 1996,27036,San Stino di Livenza,168.65
 1996,27037,Scorzè,490.9
-1996,27038,Spinea,1214.3
+1996,27038,Spinea,1674.3
 1996,27039,Stra,765.49
 1996,27040,Teglio Veneto,174.48
 1996,27041,Torre di Mosto,105.79
@@ -3951,7 +3951,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1996,28013,Borgoricco,305.61
 1996,28014,Bovolenta,140.7
 1996,28015,Brugine,299.59
-1996,28016,Cadoneghe,244.9
+1996,28016,Cadoneghe,1104.9
 1996,28017,Campodarsego,423.55
 1996,28018,Campodoro,183.87
 1996,28019,Camposampiero,470.91
@@ -3993,9 +3993,9 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1996,28055,Monselice,343.56
 1996,28056,Montagnana,211.23
 1996,28057,Montegrotto Terme,683.87
-1996,28058,Noventa Padovana,236.9
+1996,28058,Noventa Padovana,1096.9
 1996,28059,Ospedaletto Euganeo,237.27
-1996,28060,Padova,649.9
+1996,28060,Padova,2289.9
 1996,28061,Pernumia,284.8
 1996,28062,Piacenza d'Adige,78.5
 1996,28063,Piazzola sul Brenta,258.72
@@ -4114,7 +4114,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1997,23018,Caprino Veronese,153.65
 1997,23019,Casaleone,156.35
 1997,23020,Castagnaro,122.16
-1997,23021,Castel d'Azzano,103.58
+1997,23021,Castel d'Azzano,1003.58
 1997,23022,Castelnuovo del Garda,237.29
 1997,23023,Cavaion Veronese,298.5
 1997,23024,Cazzano di Tramigna,106.62
@@ -4164,7 +4164,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1997,23068,Salizzole,122.8
 1997,23069,San Bonifacio,483.0
 1997,23070,San Giovanni Ilarione,186.84
-1997,23071,San Giovanni Lupatoto,247.76
+1997,23071,San Giovanni Lupatoto,1107.76
 1997,23072,Sanguinetto,301.98
 1997,23073,San Martino Buon Albergo,372.4
 1997,23074,San Mauro di Saline,49.28
@@ -4184,7 +4184,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1997,23088,Trevenzuolo,86.88
 1997,23089,Valeggio sul Mincio,157.58
 1997,23090,Velo Veronese,41.53
-1997,23091,Verona,452.21
+1997,23091,Verona,1232.21
 1997,23092,Veronella,169.47
 1997,23093,Vestenanova,109.24
 1997,23094,Vigasio,208.18
@@ -4296,7 +4296,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1997,24102,Sossano,190.55
 1997,24103,Sovizzo,348.25
 1997,24104,Tezze sul Brenta,569.3
-1997,24105,Thiene,151.75
+1997,24105,Thiene,1051.75
 1997,24106,Tonezza del Cimone,44.81
 1997,24107,Torrebelvicino,251.42
 1997,24108,Torri di Quartesolo,550.8
@@ -4306,7 +4306,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1997,24113,Valli del Pasubio,72.26
 1997,24114,Valstagna,72.57
 1997,24115,Velo d'Astico,104.36
-1997,24116,Vicenza,654.5
+1997,24116,Vicenza,1354.5
 1997,24117,Villaga,79.9
 1997,24118,Villaverla,323.57
 1997,24119,Zanè,733.59
@@ -4467,7 +4467,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1997,26083,Susegana,230.29
 1997,26084,Tarzo,181.64
 1997,26085,Trevignano,330.17
-1997,26086,Treviso,845.37
+1997,26086,Treviso,1465.37
 1997,26087,Valdobbiadene,175.8
 1997,26088,Vazzola,230.43
 1997,26089,Vedelago,219.17
@@ -4514,7 +4514,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1997,27035,Santa Maria di Sala,445.85
 1997,27036,San Stino di Livenza,168.93
 1997,27037,Scorzè,493.57
-1997,27038,Spinea,1214.43
+1997,27038,Spinea,1674.43
 1997,27039,Stra,758.88
 1997,27040,Teglio Veneto,174.65
 1997,27041,Torre di Mosto,107.9
@@ -4536,7 +4536,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1997,28013,Borgoricco,307.22
 1997,28014,Bovolenta,141.67
 1997,28015,Brugine,304.34
-1997,28016,Cadoneghe,301.1
+1997,28016,Cadoneghe,1121.1
 1997,28017,Campodarsego,427.68
 1997,28018,Campodoro,184.95
 1997,28019,Camposampiero,475.27
@@ -4578,9 +4578,9 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1997,28055,Monselice,344.75
 1997,28056,Montagnana,210.94
 1997,28057,Montegrotto Terme,679.87
-1997,28058,Noventa Padovana,254.37
+1997,28058,Noventa Padovana,1114.37
 1997,28059,Ospedaletto Euganeo,240.92
-1997,28060,Padova,643.9
+1997,28060,Padova,2283.9
 1997,28061,Pernumia,285.49
 1997,28062,Piacenza d'Adige,78.27
 1997,28063,Piazzola sul Brenta,256.79
@@ -4699,7 +4699,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1998,23018,Caprino Veronese,154.55
 1998,23019,Casaleone,156.53
 1998,23020,Castagnaro,121.4
-1998,23021,Castel d'Azzano,118.1
+1998,23021,Castel d'Azzano,1018.1
 1998,23022,Castelnuovo del Garda,238.39
 1998,23023,Cavaion Veronese,306.78
 1998,23024,Cazzano di Tramigna,105.8
@@ -4749,7 +4749,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1998,23068,Salizzole,122.31
 1998,23069,San Bonifacio,487.2
 1998,23070,San Giovanni Ilarione,188.74
-1998,23071,San Giovanni Lupatoto,251.99
+1998,23071,San Giovanni Lupatoto,1111.99
 1998,23072,Sanguinetto,299.41
 1998,23073,San Martino Buon Albergo,372.4
 1998,23074,San Mauro di Saline,49.64
@@ -4769,7 +4769,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1998,23088,Trevenzuolo,88.11
 1998,23089,Valeggio sul Mincio,160.49
 1998,23090,Velo Veronese,42.0
-1998,23091,Verona,452.16
+1998,23091,Verona,1232.16
 1998,23092,Veronella,170.58
 1998,23093,Vestenanova,110.8
 1998,23094,Vigasio,210.32
@@ -4881,7 +4881,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1998,24102,Sossano,192.55
 1998,24103,Sovizzo,350.6
 1998,24104,Tezze sul Brenta,573.19
-1998,24105,Thiene,155.4
+1998,24105,Thiene,1055.4
 1998,24106,Tonezza del Cimone,44.25
 1998,24107,Torrebelvicino,255.84
 1998,24108,Torri di Quartesolo,558.68
@@ -4891,7 +4891,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1998,24113,Valli del Pasubio,72.12
 1998,24114,Valstagna,72.97
 1998,24115,Velo d'Astico,104.36
-1998,24116,Vicenza,656.51
+1998,24116,Vicenza,1356.51
 1998,24117,Villaga,79.87
 1998,24118,Villaverla,326.49
 1998,24119,Zanè,742.61
@@ -5052,7 +5052,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1998,26083,Susegana,234.51
 1998,26084,Tarzo,185.5
 1998,26085,Trevignano,333.67
-1998,26086,Treviso,852.11
+1998,26086,Treviso,1472.11
 1998,26087,Valdobbiadene,176.24
 1998,26088,Vazzola,233.77
 1998,26089,Vedelago,219.58
@@ -5099,7 +5099,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1998,27035,Santa Maria di Sala,458.12
 1998,27036,San Stino di Livenza,169.52
 1998,27037,Scorzè,498.44
-1998,27038,Spinea,1204.45
+1998,27038,Spinea,1664.45
 1998,27039,Stra,769.7
 1998,27040,Teglio Veneto,176.22
 1998,27041,Torre di Mosto,108.61
@@ -5121,7 +5121,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1998,28013,Borgoricco,314.15
 1998,28014,Bovolenta,140.7
 1998,28015,Brugine,307.97
-1998,28016,Cadoneghe,309.11
+1998,28016,Cadoneghe,1129.11
 1998,28017,Campodarsego,433.78
 1998,28018,Campodoro,186.38
 1998,28019,Camposampiero,479.2
@@ -5163,9 +5163,9 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1998,28055,Monselice,346.98
 1998,28056,Montagnana,210.74
 1998,28057,Montegrotto Terme,683.34
-1998,28058,Noventa Padovana,300.8
+1998,28058,Noventa Padovana,1120.8
 1998,28059,Ospedaletto Euganeo,241.94
-1998,28060,Padova,632.86
+1998,28060,Padova,2272.86
 1998,28061,Pernumia,283.66
 1998,28062,Piacenza d'Adige,79.24
 1998,28063,Piazzola sul Brenta,258.14
@@ -5284,7 +5284,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1999,23018,Caprino Veronese,155.13
 1999,23019,Casaleone,155.69
 1999,23020,Castagnaro,121.19
-1999,23021,Castel d'Azzano,123.72
+1999,23021,Castel d'Azzano,1023.72
 1999,23022,Castelnuovo del Garda,241.68
 1999,23023,Cavaion Veronese,316.34
 1999,23024,Cazzano di Tramigna,106.37
@@ -5334,7 +5334,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1999,23068,Salizzole,122.58
 1999,23069,San Bonifacio,498.82
 1999,23070,San Giovanni Ilarione,190.16
-1999,23071,San Giovanni Lupatoto,255.5
+1999,23071,San Giovanni Lupatoto,1115.5
 1999,23072,Sanguinetto,295.52
 1999,23073,San Martino Buon Albergo,371.5
 1999,23074,San Mauro di Saline,49.1
@@ -5354,7 +5354,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1999,23088,Trevenzuolo,88.48
 1999,23089,Valeggio sul Mincio,164.12
 1999,23090,Velo Veronese,42.58
-1999,23091,Verona,455.21
+1999,23091,Verona,1235.21
 1999,23092,Veronella,173.4
 1999,23093,Vestenanova,109.49
 1999,23094,Vigasio,214.22
@@ -5466,7 +5466,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1999,24102,Sossano,196.32
 1999,24103,Sovizzo,357.61
 1999,24104,Tezze sul Brenta,575.25
-1999,24105,Thiene,156.92
+1999,24105,Thiene,1056.92
 1999,24106,Tonezza del Cimone,44.11
 1999,24107,Torrebelvicino,260.93
 1999,24108,Torri di Quartesolo,565.65
@@ -5476,7 +5476,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1999,24113,Valli del Pasubio,72.6
 1999,24114,Valstagna,73.95
 1999,24115,Velo d'Astico,104.13
-1999,24116,Vicenza,703.88
+1999,24116,Vicenza,1363.88
 1999,24117,Villaga,80.52
 1999,24118,Villaverla,330.37
 1999,24119,Zanè,764.84
@@ -5637,7 +5637,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1999,26083,Susegana,236.88
 1999,26084,Tarzo,187.94
 1999,26085,Trevignano,335.18
-1999,26086,Treviso,853.35
+1999,26086,Treviso,1473.35
 1999,26087,Valdobbiadene,175.73
 1999,26088,Vazzola,239.26
 1999,26089,Vedelago,221.63
@@ -5684,7 +5684,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1999,27035,Santa Maria di Sala,470.6
 1999,27036,San Stino di Livenza,170.55
 1999,27037,Scorzè,506.19
-1999,27038,Spinea,1153.4
+1999,27038,Spinea,1653.4
 1999,27039,Stra,784.4
 1999,27040,Teglio Veneto,174.39
 1999,27041,Torre di Mosto,110.54
@@ -5706,7 +5706,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1999,28013,Borgoricco,322.6
 1999,28014,Bovolenta,139.9
 1999,28015,Brugine,311.7
-1999,28016,Cadoneghe,319.3
+1999,28016,Cadoneghe,1139.3
 1999,28017,Campodarsego,438.42
 1999,28018,Campodoro,189.52
 1999,28019,Camposampiero,490.41
@@ -5748,9 +5748,9 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 1999,28055,Monselice,345.85
 1999,28056,Montagnana,209.39
 1999,28057,Montegrotto Terme,683.87
-1999,28058,Noventa Padovana,310.54
+1999,28058,Noventa Padovana,1130.54
 1999,28059,Ospedaletto Euganeo,247.5
-1999,28060,Padova,636.69
+1999,28060,Padova,2276.69
 1999,28061,Pernumia,284.57
 1999,28062,Piacenza d'Adige,79.67
 1999,28063,Piazzola sul Brenta,257.49
@@ -5869,7 +5869,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2000,23018,Caprino Veronese,157.79
 2000,23019,Casaleone,155.2
 2000,23020,Castagnaro,121.33
-2000,23021,Castel d'Azzano,138.99
+2000,23021,Castel d'Azzano,1038.99
 2000,23022,Castelnuovo del Garda,243.1
 2000,23023,Cavaion Veronese,324.51
 2000,23024,Cazzano di Tramigna,106.69
@@ -5919,7 +5919,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2000,23068,Salizzole,123.43
 2000,23069,San Bonifacio,509.24
 2000,23070,San Giovanni Ilarione,192.42
-2000,23071,San Giovanni Lupatoto,303.38
+2000,23071,San Giovanni Lupatoto,1123.38
 2000,23072,Sanguinetto,296.55
 2000,23073,San Martino Buon Albergo,371.36
 2000,23074,San Mauro di Saline,48.29
@@ -5939,7 +5939,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2000,23088,Trevenzuolo,89.14
 2000,23089,Valeggio sul Mincio,167.64
 2000,23090,Velo Veronese,42.79
-2000,23091,Verona,505.9
+2000,23091,Verona,1245.9
 2000,23092,Veronella,176.51
 2000,23093,Vestenanova,109.82
 2000,23094,Vigasio,219.22
@@ -6051,7 +6051,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2000,24102,Sossano,196.47
 2000,24103,Sovizzo,360.73
 2000,24104,Tezze sul Brenta,576.59
-2000,24105,Thiene,201.58
+2000,24105,Thiene,1061.58
 2000,24106,Tonezza del Cimone,43.9
 2000,24107,Torrebelvicino,262.23
 2000,24108,Torri di Quartesolo,579.37
@@ -6061,7 +6061,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2000,24113,Valli del Pasubio,72.93
 2000,24114,Valstagna,75.56
 2000,24115,Velo d'Astico,104.82
-2000,24116,Vicenza,712.78
+2000,24116,Vicenza,1372.78
 2000,24117,Villaga,79.7
 2000,24118,Villaverla,338.63
 2000,24119,Zanè,781.83
@@ -6222,7 +6222,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2000,26083,Susegana,242.1
 2000,26084,Tarzo,190.34
 2000,26085,Trevignano,338.76
-2000,26086,Treviso,905.59
+2000,26086,Treviso,1485.59
 2000,26087,Valdobbiadene,175.77
 2000,26088,Vazzola,242.64
 2000,26089,Vedelago,224.39
@@ -6269,7 +6269,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2000,27035,Santa Maria di Sala,480.19
 2000,27036,San Stino di Livenza,171.7
 2000,27037,Scorzè,516.8
-2000,27038,Spinea,1149.4
+2000,27038,Spinea,1649.4
 2000,27039,Stra,793.74
 2000,27040,Teglio Veneto,175.17
 2000,27041,Torre di Mosto,113.23
@@ -6291,7 +6291,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2000,28013,Borgoricco,329.87
 2000,28014,Bovolenta,140.17
 2000,28015,Brugine,314.25
-2000,28016,Cadoneghe,326.7
+2000,28016,Cadoneghe,1146.7
 2000,28017,Campodarsego,445.33
 2000,28018,Campodoro,193.46
 2000,28019,Camposampiero,499.62
@@ -6333,9 +6333,9 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2000,28055,Monselice,346.23
 2000,28056,Montagnana,208.99
 2000,28057,Montegrotto Terme,688.66
-2000,28058,Noventa Padovana,321.7
+2000,28058,Noventa Padovana,1141.7
 2000,28059,Ospedaletto Euganeo,250.91
-2000,28060,Padova,617.85
+2000,28060,Padova,2257.85
 2000,28061,Pernumia,284.73
 2000,28062,Piacenza d'Adige,78.64
 2000,28063,Piazzola sul Brenta,258.29
@@ -6454,7 +6454,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2001,23018,Caprino Veronese,158.44
 2001,23019,Casaleone,154.47
 2001,23020,Castagnaro,119.46
-2001,23021,Castel d'Azzano,155.57
+2001,23021,Castel d'Azzano,1055.57
 2001,23022,Castelnuovo del Garda,249.8
 2001,23023,Cavaion Veronese,324.44
 2001,23024,Cazzano di Tramigna,106.45
@@ -6504,7 +6504,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2001,23068,Salizzole,122.77
 2001,23069,San Bonifacio,517.67
 2001,23070,San Giovanni Ilarione,193.52
-2001,23071,San Giovanni Lupatoto,304.71
+2001,23071,San Giovanni Lupatoto,1124.71
 2001,23072,Sanguinetto,292.8
 2001,23073,San Martino Buon Albergo,371.42
 2001,23074,San Mauro di Saline,51.71
@@ -6524,7 +6524,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2001,23088,Trevenzuolo,89.85
 2001,23089,Valeggio sul Mincio,171.1
 2001,23090,Velo Veronese,41.69
-2001,23091,Verona,445.64
+2001,23091,Verona,1225.64
 2001,23092,Veronella,178.15
 2001,23093,Vestenanova,109.49
 2001,23094,Vigasio,221.17
@@ -6636,7 +6636,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2001,24102,Sossano,196.9
 2001,24103,Sovizzo,364.86
 2001,24104,Tezze sul Brenta,579.28
-2001,24105,Thiene,158.15
+2001,24105,Thiene,1058.15
 2001,24106,Tonezza del Cimone,43.28
 2001,24107,Torrebelvicino,261.13
 2001,24108,Torri di Quartesolo,590.35
@@ -6646,7 +6646,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2001,24113,Valli del Pasubio,72.28
 2001,24114,Valstagna,76.73
 2001,24115,Velo d'Astico,106.64
-2001,24116,Vicenza,633.86
+2001,24116,Vicenza,1333.86
 2001,24117,Villaga,80.39
 2001,24118,Villaverla,344.44
 2001,24119,Zanè,801.5
@@ -6807,7 +6807,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2001,26083,Susegana,244.74
 2001,26084,Tarzo,190.59
 2001,26085,Trevignano,342.26
-2001,26086,Treviso,825.8
+2001,26086,Treviso,1445.8
 2001,26087,Valdobbiadene,174.96
 2001,26088,Vazzola,246.72
 2001,26089,Vedelago,224.57
@@ -6854,7 +6854,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2001,27035,Santa Maria di Sala,489.91
 2001,27036,San Stino di Livenza,172.46
 2001,27037,Scorzè,521.12
-2001,27038,Spinea,1132.56
+2001,27038,Spinea,1632.56
 2001,27039,Stra,801.71
 2001,27040,Teglio Veneto,172.57
 2001,27041,Torre di Mosto,113.2
@@ -6876,7 +6876,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2001,28013,Borgoricco,339.29
 2001,28014,Bovolenta,138.67
 2001,28015,Brugine,312.26
-2001,28016,Cadoneghe,329.11
+2001,28016,Cadoneghe,1149.11
 2001,28017,Campodarsego,449.0
 2001,28018,Campodoro,194.9
 2001,28019,Camposampiero,507.17
@@ -6918,9 +6918,9 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2001,28055,Monselice,345.97
 2001,28056,Montagnana,207.92
 2001,28057,Montegrotto Terme,682.75
-2001,28058,Noventa Padovana,315.15
+2001,28058,Noventa Padovana,1135.15
 2001,28059,Ospedaletto Euganeo,252.45
-2001,28060,Padova,522.32
+2001,28060,Padova,2202.32
 2001,28061,Pernumia,281.38
 2001,28062,Piacenza d'Adige,75.85
 2001,28063,Piazzola sul Brenta,258.29
@@ -6946,7 +6946,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2001,28083,Sant'Elena,197.65
 2001,28084,Sant'Urbano,70.51
 2001,28085,Saonara,663.17
-2001,28086,Selvazzano Dentro,108.17
+2001,28086,Selvazzano Dentro,1008.17
 2001,28087,Solesino,688.11
 2001,28088,Stanghella,226.36
 2001,28089,Teolo,266.18
@@ -7039,7 +7039,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2002,23018,Caprino Veronese,159.27
 2002,23019,Casaleone,155.2
 2002,23020,Castagnaro,118.26
-2002,23021,Castel d'Azzano,212.58
+2002,23021,Castel d'Azzano,1072.58
 2002,23022,Castelnuovo del Garda,258.32
 2002,23023,Cavaion Veronese,334.24
 2002,23024,Cazzano di Tramigna,108.8
@@ -7089,7 +7089,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2002,23068,Salizzole,123.17
 2002,23069,San Bonifacio,529.72
 2002,23070,San Giovanni Ilarione,196.8
-2002,23071,San Giovanni Lupatoto,313.74
+2002,23071,San Giovanni Lupatoto,1133.74
 2002,23072,Sanguinetto,294.2
 2002,23073,San Martino Buon Albergo,374.6
 2002,23074,San Mauro di Saline,51.89
@@ -7109,7 +7109,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2002,23088,Trevenzuolo,90.85
 2002,23089,Valeggio sul Mincio,175.58
 2002,23090,Velo Veronese,41.27
-2002,23091,Verona,459.1
+2002,23091,Verona,1239.1
 2002,23092,Veronella,182.14
 2002,23093,Vestenanova,111.38
 2002,23094,Vigasio,222.27
@@ -7142,7 +7142,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2002,24023,Campolongo sul Brenta,87.38
 2002,24024,Carrè,386.71
 2002,24025,Cartigliano,475.0
-2002,24026,Cassola,106.15
+2002,24026,Cassola,1006.15
 2002,24027,Castegnero,220.83
 2002,24028,Castelgomberto,324.42
 2002,24029,Chiampo,546.69
@@ -7221,7 +7221,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2002,24102,Sossano,200.48
 2002,24103,Sovizzo,366.58
 2002,24104,Tezze sul Brenta,589.27
-2002,24105,Thiene,201.84
+2002,24105,Thiene,1061.84
 2002,24106,Tonezza del Cimone,43.21
 2002,24107,Torrebelvicino,264.89
 2002,24108,Torri di Quartesolo,604.8
@@ -7231,7 +7231,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2002,24113,Valli del Pasubio,72.7
 2002,24114,Valstagna,77.67
 2002,24115,Velo d'Astico,106.68
-2002,24116,Vicenza,705.4
+2002,24116,Vicenza,1365.4
 2002,24117,Villaga,80.3
 2002,24118,Villaverla,352.51
 2002,24119,Zanè,817.67
@@ -7392,7 +7392,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2002,26083,Susegana,249.47
 2002,26084,Tarzo,193.82
 2002,26085,Trevignano,346.55
-2002,26086,Treviso,833.84
+2002,26086,Treviso,1453.84
 2002,26087,Valdobbiadene,174.66
 2002,26088,Vazzola,253.86
 2002,26089,Vedelago,228.92
@@ -7439,7 +7439,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2002,27035,Santa Maria di Sala,500.7
 2002,27036,San Stino di Livenza,174.91
 2002,27037,Scorzè,531.74
-2002,27038,Spinea,1136.9
+2002,27038,Spinea,1636.9
 2002,27039,Stra,809.0
 2002,27040,Teglio Veneto,171.44
 2002,27041,Torre di Mosto,114.61
@@ -7461,7 +7461,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2002,28013,Borgoricco,346.12
 2002,28014,Bovolenta,139.2
 2002,28015,Brugine,324.11
-2002,28016,Cadoneghe,341.17
+2002,28016,Cadoneghe,1161.17
 2002,28017,Campodarsego,453.18
 2002,28018,Campodoro,201.43
 2002,28019,Camposampiero,516.71
@@ -7503,9 +7503,9 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2002,28055,Monselice,345.81
 2002,28056,Montagnana,207.1
 2002,28057,Montegrotto Terme,686.62
-2002,28058,Noventa Padovana,327.0
+2002,28058,Noventa Padovana,1147.0
 2002,28059,Ospedaletto Euganeo,258.1
-2002,28060,Padova,534.81
+2002,28060,Padova,2214.81
 2002,28061,Pernumia,281.76
 2002,28062,Piacenza d'Adige,75.74
 2002,28063,Piazzola sul Brenta,258.24
@@ -7531,7 +7531,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2002,28083,Sant'Elena,203.2
 2002,28084,Sant'Urbano,69.91
 2002,28085,Saonara,670.19
-2002,28086,Selvazzano Dentro,119.25
+2002,28086,Selvazzano Dentro,1019.25
 2002,28087,Solesino,687.72
 2002,28088,Stanghella,224.94
 2002,28089,Teolo,266.63
@@ -7624,7 +7624,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2003,23018,Caprino Veronese,161.17
 2003,23019,Casaleone,156.97
 2003,23020,Castagnaro,117.39
-2003,23021,Castel d'Azzano,244.74
+2003,23021,Castel d'Azzano,1104.74
 2003,23022,Castelnuovo del Garda,268.54
 2003,23023,Cavaion Veronese,338.29
 2003,23024,Cazzano di Tramigna,108.57
@@ -7674,7 +7674,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2003,23068,Salizzole,124.5
 2003,23069,San Bonifacio,544.87
 2003,23070,San Giovanni Ilarione,198.82
-2003,23071,San Giovanni Lupatoto,333.75
+2003,23071,San Giovanni Lupatoto,1153.75
 2003,23072,Sanguinetto,292.52
 2003,23073,San Martino Buon Albergo,372.1
 2003,23074,San Mauro di Saline,51.62
@@ -7694,7 +7694,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2003,23088,Trevenzuolo,93.96
 2003,23089,Valeggio sul Mincio,182.25
 2003,23090,Velo Veronese,41.9
-2003,23091,Verona,508.8
+2003,23091,Verona,1248.8
 2003,23092,Veronella,187.9
 2003,23093,Vestenanova,112.5
 2003,23094,Vigasio,228.96
@@ -7727,7 +7727,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2003,24023,Campolongo sul Brenta,87.59
 2003,24024,Carrè,389.23
 2003,24025,Cartigliano,476.87
-2003,24026,Cassola,127.13
+2003,24026,Cassola,1027.13
 2003,24027,Castegnero,226.85
 2003,24028,Castelgomberto,332.35
 2003,24029,Chiampo,550.44
@@ -7737,7 +7737,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2003,24033,Conco,81.23
 2003,24034,Cornedo Vicentino,469.73
 2003,24035,Costabissara,444.86
-2003,24036,Creazzo,109.18
+2003,24036,Creazzo,1009.18
 2003,24037,Crespadoro,51.31
 2003,24038,Dueville,664.28
 2003,24039,Enego,37.19
@@ -7806,7 +7806,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2003,24102,Sossano,201.48
 2003,24103,Sovizzo,372.5
 2003,24104,Tezze sul Brenta,605.17
-2003,24105,Thiene,217.59
+2003,24105,Thiene,1077.59
 2003,24106,Tonezza del Cimone,42.72
 2003,24107,Torrebelvicino,271.69
 2003,24108,Torri di Quartesolo,609.1
@@ -7816,7 +7816,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2003,24113,Valli del Pasubio,71.85
 2003,24114,Valstagna,77.83
 2003,24115,Velo d'Astico,106.54
-2003,24116,Vicenza,722.76
+2003,24116,Vicenza,1382.76
 2003,24117,Villaga,83.32
 2003,24118,Villaverla,363.89
 2003,24119,Zanè,820.68
@@ -7977,7 +7977,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2003,26083,Susegana,254.33
 2003,26084,Tarzo,195.13
 2003,26085,Trevignano,351.94
-2003,26086,Treviso,848.76
+2003,26086,Treviso,1468.76
 2003,26087,Valdobbiadene,175.62
 2003,26088,Vazzola,257.86
 2003,26089,Vedelago,235.71
@@ -8000,7 +8000,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2003,27011,Concordia Sagittaria,155.4
 2003,27012,Dolo,602.65
 2003,27013,Eraclea,133.33
-2003,27014,Fiesso d'Artico,106.18
+2003,27014,Fiesso d'Artico,1006.18
 2003,27015,Fossalta di Piave,430.22
 2003,27016,Fossalta di Portogruaro,185.95
 2003,27017,Fossò,594.56
@@ -8024,7 +8024,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2003,27035,Santa Maria di Sala,518.49
 2003,27036,San Stino di Livenza,178.33
 2003,27037,Scorzè,543.45
-2003,27038,Spinea,1133.56
+2003,27038,Spinea,1633.56
 2003,27039,Stra,820.27
 2003,27040,Teglio Veneto,175.9
 2003,27041,Torre di Mosto,116.7
@@ -8046,7 +8046,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2003,28013,Borgoricco,351.88
 2003,28014,Bovolenta,138.84
 2003,28015,Brugine,329.62
-2003,28016,Cadoneghe,357.59
+2003,28016,Cadoneghe,1177.59
 2003,28017,Campodarsego,463.3
 2003,28018,Campodoro,211.92
 2003,28019,Camposampiero,529.66
@@ -8088,9 +8088,9 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2003,28055,Monselice,347.38
 2003,28056,Montagnana,207.52
 2003,28057,Montegrotto Terme,690.62
-2003,28058,Noventa Padovana,404.1
+2003,28058,Noventa Padovana,1184.1
 2003,28059,Ospedaletto Euganeo,263.29
-2003,28060,Padova,610.27
+2003,28060,Padova,2250.27
 2003,28061,Pernumia,285.26
 2003,28062,Piacenza d'Adige,74.39
 2003,28063,Piazzola sul Brenta,259.5
@@ -8116,7 +8116,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2003,28083,Sant'Elena,210.96
 2003,28084,Sant'Urbano,69.13
 2003,28085,Saonara,686.24
-2003,28086,Selvazzano Dentro,149.95
+2003,28086,Selvazzano Dentro,1049.95
 2003,28087,Solesino,688.21
 2003,28088,Stanghella,225.8
 2003,28089,Teolo,271.2
@@ -8209,7 +8209,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2004,23018,Caprino Veronese,162.2
 2004,23019,Casaleone,157.0
 2004,23020,Castagnaro,117.79
-2004,23021,Castel d'Azzano,255.98
+2004,23021,Castel d'Azzano,1115.98
 2004,23022,Castelnuovo del Garda,288.5
 2004,23023,Cavaion Veronese,347.0
 2004,23024,Cazzano di Tramigna,109.39
@@ -8259,7 +8259,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2004,23068,Salizzole,123.79
 2004,23069,San Bonifacio,554.54
 2004,23070,San Giovanni Ilarione,200.12
-2004,23071,San Giovanni Lupatoto,353.7
+2004,23071,San Giovanni Lupatoto,1173.7
 2004,23072,Sanguinetto,294.13
 2004,23073,San Martino Buon Albergo,374.71
 2004,23074,San Mauro di Saline,51.35
@@ -8279,7 +8279,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2004,23088,Trevenzuolo,95.74
 2004,23089,Valeggio sul Mincio,189.46
 2004,23090,Velo Veronese,41.53
-2004,23091,Verona,513.41
+2004,23091,Verona,1253.41
 2004,23092,Veronella,189.44
 2004,23093,Vestenanova,112.21
 2004,23094,Vigasio,240.3
@@ -8312,7 +8312,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2004,24023,Campolongo sul Brenta,87.18
 2004,24024,Carrè,389.92
 2004,24025,Cartigliano,478.61
-2004,24026,Cassola,143.85
+2004,24026,Cassola,1043.85
 2004,24027,Castegnero,230.12
 2004,24028,Castelgomberto,337.79
 2004,24029,Chiampo,555.8
@@ -8322,7 +8322,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2004,24033,Conco,82.0
 2004,24034,Cornedo Vicentino,486.14
 2004,24035,Costabissara,456.81
-2004,24036,Creazzo,116.21
+2004,24036,Creazzo,1016.21
 2004,24037,Crespadoro,52.54
 2004,24038,Dueville,674.62
 2004,24039,Enego,36.98
@@ -8391,7 +8391,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2004,24102,Sossano,202.77
 2004,24103,Sovizzo,380.27
 2004,24104,Tezze sul Brenta,625.79
-2004,24105,Thiene,231.52
+2004,24105,Thiene,1091.52
 2004,24106,Tonezza del Cimone,42.51
 2004,24107,Torrebelvicino,275.17
 2004,24108,Torri di Quartesolo,610.99
@@ -8401,7 +8401,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2004,24113,Valli del Pasubio,72.12
 2004,24114,Valstagna,78.18
 2004,24115,Velo d'Astico,109.18
-2004,24116,Vicenza,748.5
+2004,24116,Vicenza,1408.5
 2004,24117,Villaga,84.91
 2004,24118,Villaverla,370.44
 2004,24119,Zanè,829.58
@@ -8562,7 +8562,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2004,26083,Susegana,258.28
 2004,26084,Tarzo,196.26
 2004,26085,Trevignano,360.15
-2004,26086,Treviso,859.5
+2004,26086,Treviso,1479.5
 2004,26087,Valdobbiadene,176.85
 2004,26088,Vazzola,260.58
 2004,26089,Vedelago,241.71
@@ -8585,7 +8585,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2004,27011,Concordia Sagittaria,155.56
 2004,27012,Dolo,603.73
 2004,27013,Eraclea,133.69
-2004,27014,Fiesso d'Artico,143.74
+2004,27014,Fiesso d'Artico,1043.74
 2004,27015,Fossalta di Piave,434.43
 2004,27016,Fossalta di Portogruaro,188.25
 2004,27017,Fossò,605.93
@@ -8609,7 +8609,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2004,27035,Santa Maria di Sala,545.92
 2004,27036,San Stino di Livenza,180.55
 2004,27037,Scorzè,557.6
-2004,27038,Spinea,1138.2
+2004,27038,Spinea,1638.2
 2004,27039,Stra,825.4
 2004,27040,Teglio Veneto,181.68
 2004,27041,Torre di Mosto,117.79
@@ -8631,7 +8631,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2004,28013,Borgoricco,362.57
 2004,28014,Bovolenta,137.87
 2004,28015,Brugine,336.1
-2004,28016,Cadoneghe,403.19
+2004,28016,Cadoneghe,1183.19
 2004,28017,Campodarsego,476.73
 2004,28018,Campodoro,223.12
 2004,28019,Camposampiero,540.67
@@ -8673,9 +8673,9 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2004,28055,Monselice,348.21
 2004,28056,Montagnana,208.54
 2004,28057,Montegrotto Terme,694.95
-2004,28058,Noventa Padovana,515.65
+2004,28058,Noventa Padovana,1255.65
 2004,28059,Ospedaletto Euganeo,264.69
-2004,28060,Padova,630.55
+2004,28060,Padova,2270.55
 2004,28061,Pernumia,285.41
 2004,28062,Piacenza d'Adige,73.75
 2004,28063,Piazzola sul Brenta,259.98
@@ -8701,7 +8701,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2004,28083,Sant'Elena,215.32
 2004,28084,Sant'Urbano,68.75
 2004,28085,Saonara,695.19
-2004,28086,Selvazzano Dentro,220.9
+2004,28086,Selvazzano Dentro,1080.9
 2004,28087,Solesino,688.89
 2004,28088,Stanghella,227.22
 2004,28089,Teolo,271.33
@@ -8794,7 +8794,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2005,23018,Caprino Veronese,163.14
 2005,23019,Casaleone,158.25
 2005,23020,Castagnaro,117.91
-2005,23021,Castel d'Azzano,324.54
+2005,23021,Castel d'Azzano,1144.54
 2005,23022,Castelnuovo del Garda,305.55
 2005,23023,Cavaion Veronese,360.23
 2005,23024,Cazzano di Tramigna,114.4
@@ -8844,7 +8844,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2005,23068,Salizzole,123.1
 2005,23069,San Bonifacio,557.37
 2005,23070,San Giovanni Ilarione,200.43
-2005,23071,San Giovanni Lupatoto,407.8
+2005,23071,San Giovanni Lupatoto,1187.8
 2005,23072,Sanguinetto,297.43
 2005,23073,San Martino Buon Albergo,375.33
 2005,23074,San Mauro di Saline,51.17
@@ -8864,7 +8864,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2005,23088,Trevenzuolo,96.44
 2005,23089,Valeggio sul Mincio,195.78
 2005,23090,Velo Veronese,41.69
-2005,23091,Verona,514.92
+2005,23091,Verona,1254.92
 2005,23092,Veronella,193.23
 2005,23093,Vestenanova,112.34
 2005,23094,Vigasio,252.69
@@ -8897,7 +8897,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2005,24023,Campolongo sul Brenta,87.38
 2005,24024,Carrè,399.2
 2005,24025,Cartigliano,482.62
-2005,24026,Cassola,154.81
+2005,24026,Cassola,1054.81
 2005,24027,Castegnero,233.39
 2005,24028,Castelgomberto,344.97
 2005,24029,Chiampo,555.65
@@ -8907,7 +8907,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2005,24033,Conco,82.7
 2005,24034,Cornedo Vicentino,493.11
 2005,24035,Costabissara,470.8
-2005,24036,Creazzo,118.93
+2005,24036,Creazzo,1018.93
 2005,24037,Crespadoro,51.58
 2005,24038,Dueville,674.52
 2005,24039,Enego,36.57
@@ -8976,7 +8976,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2005,24102,Sossano,203.53
 2005,24103,Sovizzo,387.4
 2005,24104,Tezze sul Brenta,640.63
-2005,24105,Thiene,239.5
+2005,24105,Thiene,1099.5
 2005,24106,Tonezza del Cimone,43.83
 2005,24107,Torrebelvicino,278.59
 2005,24108,Torri di Quartesolo,616.25
@@ -8986,7 +8986,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2005,24113,Valli del Pasubio,72.42
 2005,24114,Valstagna,77.56
 2005,24115,Velo d'Astico,108.72
-2005,24116,Vicenza,757.8
+2005,24116,Vicenza,1417.8
 2005,24117,Villaga,85.65
 2005,24118,Villaverla,377.56
 2005,24119,Zanè,844.9
@@ -9147,7 +9147,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2005,26083,Susegana,262.24
 2005,26084,Tarzo,195.67
 2005,26085,Trevignano,369.64
-2005,26086,Treviso,904.67
+2005,26086,Treviso,1484.67
 2005,26087,Valdobbiadene,177.76
 2005,26088,Vazzola,261.81
 2005,26089,Vedelago,246.97
@@ -9170,7 +9170,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2005,27011,Concordia Sagittaria,156.13
 2005,27012,Dolo,607.49
 2005,27013,Eraclea,133.52
-2005,27014,Fiesso d'Artico,154.68
+2005,27014,Fiesso d'Artico,1054.68
 2005,27015,Fossalta di Piave,435.56
 2005,27016,Fossalta di Portogruaro,187.65
 2005,27017,Fossò,617.9
@@ -9194,7 +9194,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2005,27035,Santa Maria di Sala,564.34
 2005,27036,San Stino di Livenza,183.56
 2005,27037,Scorzè,561.23
-2005,27038,Spinea,1151.0
+2005,27038,Spinea,1651.0
 2005,27039,Stra,835.8
 2005,27040,Teglio Veneto,186.2
 2005,27041,Torre di Mosto,117.5
@@ -9216,7 +9216,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2005,28013,Borgoricco,372.28
 2005,28014,Bovolenta,138.49
 2005,28015,Brugine,340.25
-2005,28016,Cadoneghe,414.16
+2005,28016,Cadoneghe,1194.16
 2005,28017,Campodarsego,486.61
 2005,28018,Campodoro,229.66
 2005,28019,Camposampiero,545.75
@@ -9258,9 +9258,9 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2005,28055,Monselice,346.45
 2005,28056,Montagnana,210.19
 2005,28057,Montegrotto Terme,699.41
-2005,28058,Noventa Padovana,552.33
+2005,28058,Noventa Padovana,1292.33
 2005,28059,Ospedaletto Euganeo,266.88
-2005,28060,Padova,632.32
+2005,28060,Padova,2272.32
 2005,28061,Pernumia,291.11
 2005,28062,Piacenza d'Adige,74.13
 2005,28063,Piazzola sul Brenta,261.5
@@ -9286,7 +9286,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2005,28083,Sant'Elena,215.88
 2005,28084,Sant'Urbano,68.0
 2005,28085,Saonara,702.22
-2005,28086,Selvazzano Dentro,235.81
+2005,28086,Selvazzano Dentro,1095.81
 2005,28087,Solesino,690.45
 2005,28088,Stanghella,229.15
 2005,28089,Teolo,274.25
@@ -9379,7 +9379,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2006,23018,Caprino Veronese,164.43
 2006,23019,Casaleone,158.96
 2006,23020,Castagnaro,117.91
-2006,23021,Castel d'Azzano,338.56
+2006,23021,Castel d'Azzano,1158.56
 2006,23022,Castelnuovo del Garda,319.44
 2006,23023,Cavaion Veronese,376.96
 2006,23024,Cazzano di Tramigna,117.39
@@ -9429,7 +9429,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2006,23068,Salizzole,123.53
 2006,23069,San Bonifacio,563.77
 2006,23070,San Giovanni Ilarione,200.95
-2006,23071,San Giovanni Lupatoto,423.33
+2006,23071,San Giovanni Lupatoto,1203.33
 2006,23072,Sanguinetto,298.31
 2006,23073,San Martino Buon Albergo,378.87
 2006,23074,San Mauro di Saline,50.45
@@ -9449,7 +9449,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2006,23088,Trevenzuolo,97.33
 2006,23089,Valeggio sul Mincio,203.14
 2006,23090,Velo Veronese,41.48
-2006,23091,Verona,521.4
+2006,23091,Verona,1261.4
 2006,23092,Veronella,200.5
 2006,23093,Vestenanova,112.5
 2006,23094,Vigasio,264.3
@@ -9482,7 +9482,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2006,24023,Campolongo sul Brenta,86.76
 2006,24024,Carrè,401.83
 2006,24025,Cartigliano,490.51
-2006,24026,Cassola,207.9
+2006,24026,Cassola,1067.9
 2006,24027,Castegnero,236.14
 2006,24028,Castelgomberto,349.83
 2006,24029,Chiampo,557.15
@@ -9492,7 +9492,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2006,24033,Conco,82.43
 2006,24034,Cornedo Vicentino,496.64
 2006,24035,Costabissara,477.99
-2006,24036,Creazzo,119.68
+2006,24036,Creazzo,1019.68
 2006,24037,Crespadoro,50.98
 2006,24038,Dueville,679.19
 2006,24039,Enego,36.2
@@ -9561,7 +9561,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2006,24102,Sossano,206.92
 2006,24103,Sovizzo,404.58
 2006,24104,Tezze sul Brenta,655.7
-2006,24105,Thiene,257.87
+2006,24105,Thiene,1117.87
 2006,24106,Tonezza del Cimone,42.79
 2006,24107,Torrebelvicino,280.73
 2006,24108,Torri di Quartesolo,617.0
@@ -9571,7 +9571,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2006,24113,Valli del Pasubio,71.67
 2006,24114,Valstagna,76.1
 2006,24115,Velo d'Astico,108.9
-2006,24116,Vicenza,758.25
+2006,24116,Vicenza,1418.25
 2006,24117,Villaga,85.52
 2006,24118,Villaverla,382.26
 2006,24119,Zanè,850.0
@@ -9732,7 +9732,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2006,26083,Susegana,266.83
 2006,26084,Tarzo,193.82
 2006,26085,Trevignano,378.79
-2006,26086,Treviso,853.21
+2006,26086,Treviso,1473.21
 2006,26087,Valdobbiadene,177.2
 2006,26088,Vazzola,264.8
 2006,26089,Vedelago,253.97
@@ -9755,14 +9755,14 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2006,27011,Concordia Sagittaria,156.9
 2006,27012,Dolo,606.38
 2006,27013,Eraclea,133.62
-2006,27014,Fiesso d'Artico,208.15
+2006,27014,Fiesso d'Artico,1068.15
 2006,27015,Fossalta di Piave,435.56
 2006,27016,Fossalta di Portogruaro,187.15
 2006,27017,Fossò,627.4
 2006,27018,Gruaro,159.86
 2006,27019,Jesolo,250.48
 2006,27020,Marcon,536.59
-2006,27021,Martellago,110.46
+2006,27021,Martellago,1010.46
 2006,27022,Meolo,240.32
 2006,27023,Mira,383.81
 2006,27024,Mirano,575.27
@@ -9779,7 +9779,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2006,27035,Santa Maria di Sala,578.11
 2006,27036,San Stino di Livenza,184.88
 2006,27037,Scorzè,565.59
-2006,27038,Spinea,1211.97
+2006,27038,Spinea,1671.97
 2006,27039,Stra,842.71
 2006,27040,Teglio Veneto,192.27
 2006,27041,Torre di Mosto,118.86
@@ -9801,7 +9801,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2006,28013,Borgoricco,381.26
 2006,28014,Bovolenta,141.8
 2006,28015,Brugine,347.9
-2006,28016,Cadoneghe,429.88
+2006,28016,Cadoneghe,1209.88
 2006,28017,Campodarsego,496.8
 2006,28018,Campodoro,236.29
 2006,28019,Camposampiero,552.16
@@ -9843,9 +9843,9 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2006,28055,Monselice,346.59
 2006,28056,Montagnana,210.43
 2006,28057,Montegrotto Terme,703.8
-2006,28058,Noventa Padovana,653.56
+2006,28058,Noventa Padovana,1353.56
 2006,28059,Ospedaletto Euganeo,268.71
-2006,28060,Padova,624.95
+2006,28060,Padova,2264.95
 2006,28061,Pernumia,293.24
 2006,28062,Piacenza d'Adige,75.63
 2006,28063,Piazzola sul Brenta,262.88
@@ -9871,7 +9871,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2006,28083,Sant'Elena,220.81
 2006,28084,Sant'Urbano,68.53
 2006,28085,Saonara,708.28
-2006,28086,Selvazzano Dentro,247.66
+2006,28086,Selvazzano Dentro,1107.66
 2006,28087,Solesino,689.47
 2006,28088,Stanghella,228.69
 2006,28089,Teolo,274.6
@@ -9964,7 +9964,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2007,23018,Caprino Veronese,168.68
 2007,23019,Casaleone,158.8
 2007,23020,Castagnaro,118.49
-2007,23021,Castel d'Azzano,356.8
+2007,23021,Castel d'Azzano,1176.8
 2007,23022,Castelnuovo del Garda,338.27
 2007,23023,Cavaion Veronese,390.89
 2007,23024,Cazzano di Tramigna,120.8
@@ -10014,7 +10014,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2007,23068,Salizzole,122.78
 2007,23069,San Bonifacio,576.98
 2007,23070,San Giovanni Ilarione,203.24
-2007,23071,San Giovanni Lupatoto,443.71
+2007,23071,San Giovanni Lupatoto,1223.71
 2007,23072,Sanguinetto,302.13
 2007,23073,San Martino Buon Albergo,385.36
 2007,23074,San Mauro di Saline,50.81
@@ -10034,7 +10034,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2007,23088,Trevenzuolo,98.63
 2007,23089,Valeggio sul Mincio,212.18
 2007,23090,Velo Veronese,41.95
-2007,23091,Verona,538.2
+2007,23091,Verona,1278.2
 2007,23092,Veronella,204.75
 2007,23093,Vestenanova,111.42
 2007,23094,Vigasio,279.3
@@ -10067,7 +10067,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2007,24023,Campolongo sul Brenta,85.32
 2007,24024,Carrè,408.2
 2007,24025,Cartigliano,495.59
-2007,24026,Cassola,218.86
+2007,24026,Cassola,1078.86
 2007,24027,Castegnero,234.17
 2007,24028,Castelgomberto,354.57
 2007,24029,Chiampo,557.37
@@ -10077,7 +10077,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2007,24033,Conco,82.47
 2007,24034,Cornedo Vicentino,501.79
 2007,24035,Costabissara,503.93
-2007,24036,Creazzo,135.24
+2007,24036,Creazzo,1035.24
 2007,24037,Crespadoro,50.8
 2007,24038,Dueville,688.23
 2007,24039,Enego,36.8
@@ -10146,7 +10146,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2007,24102,Sossano,208.49
 2007,24103,Sovizzo,418.1
 2007,24104,Tezze sul Brenta,674.26
-2007,24105,Thiene,315.34
+2007,24105,Thiene,1135.34
 2007,24106,Tonezza del Cimone,42.44
 2007,24107,Torrebelvicino,285.16
 2007,24108,Torri di Quartesolo,622.4
@@ -10156,7 +10156,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2007,24113,Valli del Pasubio,70.61
 2007,24114,Valstagna,75.98
 2007,24115,Velo d'Astico,109.0
-2007,24116,Vicenza,756.26
+2007,24116,Vicenza,1416.26
 2007,24117,Villaga,84.91
 2007,24118,Villaverla,385.25
 2007,24119,Zanè,848.4
@@ -10317,7 +10317,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2007,26083,Susegana,270.8
 2007,26084,Tarzo,193.24
 2007,26085,Trevignano,387.16
-2007,26086,Treviso,851.3
+2007,26086,Treviso,1471.3
 2007,26087,Valdobbiadene,177.48
 2007,26088,Vazzola,266.81
 2007,26089,Vedelago,261.94
@@ -10340,14 +10340,14 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2007,27011,Concordia Sagittaria,157.14
 2007,27012,Dolo,612.42
 2007,27013,Eraclea,134.18
-2007,27014,Fiesso d'Artico,248.4
+2007,27014,Fiesso d'Artico,1108.4
 2007,27015,Fossalta di Piave,434.53
 2007,27016,Fossalta di Portogruaro,189.45
 2007,27017,Fossò,645.8
 2007,27018,Gruaro,159.11
 2007,27019,Jesolo,255.77
 2007,27020,Marcon,560.9
-2007,27021,Martellago,130.38
+2007,27021,Martellago,1030.38
 2007,27022,Meolo,241.7
 2007,27023,Mira,388.69
 2007,27024,Mirano,577.88
@@ -10364,7 +10364,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2007,27035,Santa Maria di Sala,595.89
 2007,27036,San Stino di Livenza,187.95
 2007,27037,Scorzè,568.5
-2007,27038,Spinea,1245.59
+2007,27038,Spinea,1705.59
 2007,27039,Stra,859.91
 2007,27040,Teglio Veneto,198.44
 2007,27041,Torre di Mosto,121.47
@@ -10373,7 +10373,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2007,27044,Cavallino-Treporti,287.27
 2007,28001,Abano Terme,896.89
 2007,28002,Agna,176.26
-2007,28003,Albignasego,109.62
+2007,28003,Albignasego,1009.62
 2007,28004,Anguillara Veneta,217.39
 2007,28005,Arquà Petrarca,148.64
 2007,28006,Arre,172.6
@@ -10386,7 +10386,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2007,28013,Borgoricco,394.34
 2007,28014,Bovolenta,144.75
 2007,28015,Brugine,350.51
-2007,28016,Cadoneghe,445.84
+2007,28016,Cadoneghe,1225.84
 2007,28017,Campodarsego,514.6
 2007,28018,Campodoro,236.92
 2007,28019,Camposampiero,562.51
@@ -10428,9 +10428,9 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2007,28055,Monselice,347.52
 2007,28056,Montagnana,210.79
 2007,28057,Montegrotto Terme,713.84
-2007,28058,Noventa Padovana,806.22
+2007,28058,Noventa Padovana,1426.22
 2007,28059,Ospedaletto Euganeo,270.81
-2007,28060,Padova,623.58
+2007,28060,Padova,2263.58
 2007,28061,Pernumia,291.95
 2007,28062,Piacenza d'Adige,76.6
 2007,28063,Piazzola sul Brenta,265.9
@@ -10442,7 +10442,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2007,28069,Ponte San Nicolò,976.89
 2007,28070,Pozzonovo,149.84
 2007,28071,Rovolon,163.5
-2007,28072,Rubano,121.36
+2007,28072,Rubano,1021.36
 2007,28073,Saccolongo,346.21
 2007,28074,Saletto,254.12
 2007,28075,San Giorgio delle Pertiche,510.43
@@ -10456,7 +10456,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2007,28083,Sant'Elena,237.92
 2007,28084,Sant'Urbano,68.34
 2007,28085,Saonara,721.52
-2007,28086,Selvazzano Dentro,257.88
+2007,28086,Selvazzano Dentro,1117.88
 2007,28087,Solesino,686.74
 2007,28088,Stanghella,227.68
 2007,28089,Teolo,281.7
@@ -10549,7 +10549,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2008,23018,Caprino Veronese,171.88
 2008,23019,Casaleone,159.58
 2008,23020,Castagnaro,118.65
-2008,23021,Castel d'Azzano,424.2
+2008,23021,Castel d'Azzano,1204.2
 2008,23022,Castelnuovo del Garda,351.68
 2008,23023,Cavaion Veronese,405.43
 2008,23024,Cazzano di Tramigna,121.71
@@ -10599,7 +10599,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2008,23068,Salizzole,123.66
 2008,23069,San Bonifacio,588.29
 2008,23070,San Giovanni Ilarione,204.94
-2008,23071,San Giovanni Lupatoto,502.59
+2008,23071,San Giovanni Lupatoto,1242.59
 2008,23072,Sanguinetto,302.6
 2008,23073,San Martino Buon Albergo,392.44
 2008,23074,San Mauro di Saline,50.45
@@ -10619,7 +10619,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2008,23088,Trevenzuolo,99.33
 2008,23089,Valeggio sul Mincio,217.63
 2008,23090,Velo Veronese,41.1
-2008,23091,Verona,543.83
+2008,23091,Verona,1283.83
 2008,23092,Veronella,215.14
 2008,23093,Vestenanova,112.34
 2008,23094,Vigasio,288.96
@@ -10652,7 +10652,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2008,24023,Campolongo sul Brenta,84.74
 2008,24024,Carrè,414.37
 2008,24025,Cartigliano,505.73
-2008,24026,Cassola,235.67
+2008,24026,Cassola,1095.67
 2008,24027,Castegnero,237.59
 2008,24028,Castelgomberto,355.9
 2008,24029,Chiampo,563.52
@@ -10662,7 +10662,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2008,24033,Conco,81.68
 2008,24034,Cornedo Vicentino,507.28
 2008,24035,Costabissara,516.74
-2008,24036,Creazzo,133.27
+2008,24036,Creazzo,1033.27
 2008,24037,Crespadoro,50.2
 2008,24038,Dueville,694.58
 2008,24039,Enego,36.45
@@ -10731,7 +10731,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2008,24102,Sossano,210.0
 2008,24103,Sovizzo,427.39
 2008,24104,Tezze sul Brenta,686.39
-2008,24105,Thiene,345.76
+2008,24105,Thiene,1165.76
 2008,24106,Tonezza del Cimone,41.74
 2008,24107,Torrebelvicino,285.48
 2008,24108,Torri di Quartesolo,630.7
@@ -10741,7 +10741,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2008,24113,Valli del Pasubio,70.14
 2008,24114,Valstagna,74.25
 2008,24115,Velo d'Astico,109.27
-2008,24116,Vicenza,806.95
+2008,24116,Vicenza,1426.95
 2008,24117,Villaga,85.65
 2008,24118,Villaverla,391.46
 2008,24119,Zanè,867.5
@@ -10902,7 +10902,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2008,26083,Susegana,274.7
 2008,26084,Tarzo,194.12
 2008,26085,Trevignano,391.88
-2008,26086,Treviso,901.19
+2008,26086,Treviso,1481.19
 2008,26087,Valdobbiadene,178.34
 2008,26088,Vazzola,269.88
 2008,26089,Vedelago,266.69
@@ -10925,14 +10925,14 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2008,27011,Concordia Sagittaria,156.84
 2008,27012,Dolo,619.88
 2008,27013,Eraclea,134.62
-2008,27014,Fiesso d'Artico,332.86
+2008,27014,Fiesso d'Artico,1152.86
 2008,27015,Fossalta di Piave,441.44
 2008,27016,Fossalta di Portogruaro,190.3
 2008,27017,Fossò,656.53
 2008,27018,Gruaro,161.98
 2008,27019,Jesolo,260.2
 2008,27020,Marcon,580.31
-2008,27021,Martellago,146.37
+2008,27021,Martellago,1046.37
 2008,27022,Meolo,241.27
 2008,27023,Mira,392.19
 2008,27024,Mirano,584.8
@@ -10949,7 +10949,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2008,27035,Santa Maria di Sala,609.68
 2008,27036,San Stino di Livenza,190.98
 2008,27037,Scorzè,570.9
-2008,27038,Spinea,1331.2
+2008,27038,Spinea,1751.2
 2008,27039,Stra,870.0
 2008,27040,Teglio Veneto,197.91
 2008,27041,Torre di Mosto,122.79
@@ -10958,7 +10958,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2008,27044,Cavallino-Treporti,295.95
 2008,28001,Abano Terme,902.45
 2008,28002,Agna,179.57
-2008,28003,Albignasego,144.14
+2008,28003,Albignasego,1044.14
 2008,28004,Anguillara Veneta,218.14
 2008,28005,Arquà Petrarca,148.96
 2008,28006,Arre,174.27
@@ -10971,7 +10971,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2008,28013,Borgoricco,405.22
 2008,28014,Bovolenta,147.27
 2008,28015,Brugine,353.72
-2008,28016,Cadoneghe,451.1
+2008,28016,Cadoneghe,1231.1
 2008,28017,Campodarsego,530.55
 2008,28018,Campodoro,237.5
 2008,28019,Camposampiero,570.76
@@ -11011,9 +11011,9 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2008,28055,Monselice,349.84
 2008,28056,Montagnana,211.35
 2008,28057,Montegrotto Terme,716.93
-2008,28058,Noventa Padovana,854.44
+2008,28058,Noventa Padovana,1474.44
 2008,28059,Ospedaletto Euganeo,273.83
-2008,28060,Padova,641.33
+2008,28060,Padova,2281.33
 2008,28061,Pernumia,296.14
 2008,28062,Piacenza d'Adige,76.77
 2008,28063,Piazzola sul Brenta,268.43
@@ -11025,7 +11025,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2008,28069,Ponte San Nicolò,979.56
 2008,28070,Pozzonovo,149.92
 2008,28071,Rovolon,167.36
-2008,28072,Rubano,135.7
+2008,28072,Rubano,1035.7
 2008,28073,Saccolongo,355.84
 2008,28074,Saletto,253.52
 2008,28075,San Giorgio delle Pertiche,521.22
@@ -11039,7 +11039,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2008,28083,Sant'Elena,250.11
 2008,28084,Sant'Urbano,68.74
 2008,28085,Saonara,734.89
-2008,28086,Selvazzano Dentro,300.56
+2008,28086,Selvazzano Dentro,1120.56
 2008,28087,Solesino,690.78
 2008,28088,Stanghella,227.72
 2008,28089,Teolo,283.7
@@ -11130,7 +11130,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2009,23018,Caprino Veronese,173.32
 2009,23019,Casaleone,157.7
 2009,23020,Castagnaro,118.18
-2009,23021,Castel d'Azzano,422.27
+2009,23021,Castel d'Azzano,1202.27
 2009,23022,Castelnuovo del Garda,358.58
 2009,23023,Cavaion Veronese,413.8
 2009,23024,Cazzano di Tramigna,123.66
@@ -11180,7 +11180,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2009,23068,Salizzole,123.4
 2009,23069,San Bonifacio,597.49
 2009,23070,San Giovanni Ilarione,205.26
-2009,23071,San Giovanni Lupatoto,522.43
+2009,23071,San Giovanni Lupatoto,1262.43
 2009,23072,Sanguinetto,305.37
 2009,23073,San Martino Buon Albergo,397.8
 2009,23074,San Mauro di Saline,50.9
@@ -11200,7 +11200,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2009,23088,Trevenzuolo,101.33
 2009,23089,Valeggio sul Mincio,221.48
 2009,23090,Velo Veronese,41.36
-2009,23091,Verona,539.51
+2009,23091,Verona,1279.51
 2009,23092,Veronella,222.12
 2009,23093,Vestenanova,112.5
 2009,23094,Vigasio,295.75
@@ -11233,7 +11233,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2009,24023,Campolongo sul Brenta,85.26
 2009,24024,Carrè,421.3
 2009,24025,Cartigliano,513.7
-2009,24026,Cassola,249.53
+2009,24026,Cassola,1109.53
 2009,24027,Castegnero,239.4
 2009,24028,Castelgomberto,357.98
 2009,24029,Chiampo,567.93
@@ -11243,7 +11243,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2009,24033,Conco,81.61
 2009,24034,Cornedo Vicentino,509.23
 2009,24035,Costabissara,526.14
-2009,24036,Creazzo,142.52
+2009,24036,Creazzo,1042.52
 2009,24037,Crespadoro,50.66
 2009,24038,Dueville,698.56
 2009,24039,Enego,35.81
@@ -11312,7 +11312,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2009,24102,Sossano,211.29
 2009,24103,Sovizzo,437.39
 2009,24104,Tezze sul Brenta,698.28
-2009,24105,Thiene,356.11
+2009,24105,Thiene,1176.11
 2009,24106,Tonezza del Cimone,41.11
 2009,24107,Torrebelvicino,287.95
 2009,24108,Torri di Quartesolo,632.46
@@ -11322,7 +11322,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2009,24113,Valli del Pasubio,68.92
 2009,24114,Valstagna,74.57
 2009,24115,Velo d'Astico,110.41
-2009,24116,Vicenza,813.62
+2009,24116,Vicenza,1433.62
 2009,24117,Villaga,85.69
 2009,24118,Villaverla,396.82
 2009,24119,Zanè,868.42
@@ -11483,7 +11483,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2009,26083,Susegana,274.59
 2009,26084,Tarzo,193.66
 2009,26085,Trevignano,397.44
-2009,26086,Treviso,901.23
+2009,26086,Treviso,1481.23
 2009,26087,Valdobbiadene,178.63
 2009,26088,Vazzola,273.12
 2009,26089,Vedelago,269.27
@@ -11506,14 +11506,14 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2009,27011,Concordia Sagittaria,155.74
 2009,27012,Dolo,623.6
 2009,27013,Eraclea,135.2
-2009,27014,Fiesso d'Artico,411.27
+2009,27014,Fiesso d'Artico,1191.27
 2009,27015,Fossalta di Piave,437.84
 2009,27016,Fossalta di Portogruaro,190.88
 2009,27017,Fossò,666.93
 2009,27018,Gruaro,164.13
 2009,27019,Jesolo,263.93
 2009,27020,Marcon,602.54
-2009,27021,Martellago,155.87
+2009,27021,Martellago,1055.87
 2009,27022,Meolo,242.55
 2009,27023,Mira,392.89
 2009,27024,Mirano,587.61
@@ -11530,7 +11530,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2009,27035,Santa Maria di Sala,615.21
 2009,27036,San Stino di Livenza,191.29
 2009,27037,Scorzè,571.53
-2009,27038,Spinea,1358.27
+2009,27038,Spinea,1778.27
 2009,27039,Stra,867.73
 2009,27040,Teglio Veneto,199.74
 2009,27041,Torre di Mosto,123.84
@@ -11539,7 +11539,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2009,27044,Cavallino-Treporti,298.62
 2009,28001,Abano Terme,910.5
 2009,28002,Agna,181.17
-2009,28003,Albignasego,212.33
+2009,28003,Albignasego,1072.33
 2009,28004,Anguillara Veneta,218.14
 2009,28005,Arquà Petrarca,148.32
 2009,28006,Arre,174.35
@@ -11552,7 +11552,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2009,28013,Borgoricco,407.41
 2009,28014,Bovolenta,147.58
 2009,28015,Brugine,353.93
-2009,28016,Cadoneghe,456.28
+2009,28016,Cadoneghe,1236.28
 2009,28017,Campodarsego,540.63
 2009,28018,Campodoro,240.45
 2009,28019,Camposampiero,574.69
@@ -11592,9 +11592,9 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2009,28055,Monselice,348.57
 2009,28056,Montagnana,211.66
 2009,28057,Montegrotto Terme,720.59
-2009,28058,Noventa Padovana,921.94
+2009,28058,Noventa Padovana,1501.94
 2009,28059,Ospedaletto Euganeo,276.7
-2009,28060,Padova,652.67
+2009,28060,Padova,2292.67
 2009,28061,Pernumia,299.77
 2009,28062,Piacenza d'Adige,76.8
 2009,28063,Piazzola sul Brenta,268.57
@@ -11606,7 +11606,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2009,28069,Ponte San Nicolò,984.59
 2009,28070,Pozzonovo,151.51
 2009,28071,Rovolon,170.11
-2009,28072,Rubano,151.16
+2009,28072,Rubano,1051.16
 2009,28073,Saccolongo,356.64
 2009,28074,Saletto,254.81
 2009,28075,San Giorgio delle Pertiche,526.22
@@ -11620,7 +11620,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2009,28083,Sant'Elena,260.56
 2009,28084,Sant'Urbano,68.62
 2009,28085,Saonara,740.96
-2009,28086,Selvazzano Dentro,311.22
+2009,28086,Selvazzano Dentro,1131.22
 2009,28087,Solesino,696.89
 2009,28088,Stanghella,225.63
 2009,28089,Teolo,284.57
@@ -11711,7 +11711,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2010,23018,Caprino Veronese,173.13
 2010,23019,Casaleone,157.73
 2010,23020,Castagnaro,117.15
-2010,23021,Castel d'Azzano,435.98
+2010,23021,Castel d'Azzano,1215.98
 2010,23022,Castelnuovo del Garda,364.34
 2010,23023,Cavaion Veronese,421.94
 2010,23024,Cazzano di Tramigna,125.93
@@ -11761,7 +11761,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2010,23068,Salizzole,122.42
 2010,23069,San Bonifacio,612.8
 2010,23070,San Giovanni Ilarione,204.86
-2010,23071,San Giovanni Lupatoto,541.16
+2010,23071,San Giovanni Lupatoto,1281.16
 2010,23072,Sanguinetto,309.19
 2010,23073,San Martino Buon Albergo,404.96
 2010,23074,San Mauro di Saline,51.62
@@ -11781,7 +11781,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2010,23088,Trevenzuolo,100.56
 2010,23089,Valeggio sul Mincio,225.88
 2010,23090,Velo Veronese,41.2
-2010,23091,Verona,537.4
+2010,23091,Verona,1277.4
 2010,23092,Veronella,226.44
 2010,23093,Vestenanova,112.1
 2010,23094,Vigasio,306.43
@@ -11814,7 +11814,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2010,24023,Campolongo sul Brenta,85.46
 2010,24024,Carrè,421.26
 2010,24025,Cartigliano,510.67
-2010,24026,Cassola,306.6
+2010,24026,Cassola,1126.6
 2010,24027,Castegnero,245.9
 2010,24028,Castelgomberto,357.51
 2010,24029,Chiampo,570.31
@@ -11824,7 +11824,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2010,24033,Conco,80.29
 2010,24034,Cornedo Vicentino,512.43
 2010,24035,Costabissara,540.23
-2010,24036,Creazzo,149.63
+2010,24036,Creazzo,1049.63
 2010,24037,Crespadoro,50.23
 2010,24038,Dueville,699.75
 2010,24039,Enego,35.32
@@ -11893,7 +11893,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2010,24102,Sossano,213.19
 2010,24103,Sovizzo,446.11
 2010,24104,Tezze sul Brenta,698.22
-2010,24105,Thiene,407.12
+2010,24105,Thiene,1187.12
 2010,24106,Tonezza del Cimone,40.9
 2010,24107,Torrebelvicino,288.62
 2010,24108,Torri di Quartesolo,638.45
@@ -11903,7 +11903,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2010,24113,Valli del Pasubio,68.68
 2010,24114,Valstagna,74.8
 2010,24115,Velo d'Astico,111.18
-2010,24116,Vicenza,818.3
+2010,24116,Vicenza,1438.3
 2010,24117,Villaga,84.91
 2010,24118,Villaverla,397.71
 2010,24119,Zanè,868.29
@@ -12064,7 +12064,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2010,26083,Susegana,273.98
 2010,26084,Tarzo,194.16
 2010,26085,Trevignano,398.98
-2010,26086,Treviso,912.2
+2010,26086,Treviso,1492.2
 2010,26087,Valdobbiadene,178.43
 2010,26088,Vazzola,273.35
 2010,26089,Vedelago,270.31
@@ -12087,14 +12087,14 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2010,27011,Concordia Sagittaria,156.21
 2010,27012,Dolo,627.6
 2010,27013,Eraclea,134.73
-2010,27014,Fiesso d'Artico,455.87
+2010,27014,Fiesso d'Artico,1235.87
 2010,27015,Fossalta di Piave,435.26
 2010,27016,Fossalta di Portogruaro,191.8
 2010,27017,Fossò,674.65
 2010,27018,Gruaro,164.59
 2010,27019,Jesolo,267.79
 2010,27020,Marcon,622.58
-2010,27021,Martellago,158.66
+2010,27021,Martellago,1058.66
 2010,27022,Meolo,245.92
 2010,27023,Mira,393.85
 2010,27024,Mirano,593.79
@@ -12111,7 +12111,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2010,27035,Santa Maria di Sala,617.7
 2010,27036,San Stino di Livenza,192.19
 2010,27037,Scorzè,572.13
-2010,27038,Spinea,1422.73
+2010,27038,Spinea,1802.73
 2010,27039,Stra,860.68
 2010,27040,Teglio Veneto,201.39
 2010,27041,Torre di Mosto,124.44
@@ -12120,7 +12120,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2010,27044,Cavallino-Treporti,300.51
 2010,28001,Abano Terme,913.24
 2010,28002,Agna,181.49
-2010,28003,Albignasego,248.76
+2010,28003,Albignasego,1108.76
 2010,28004,Anguillara Veneta,215.7
 2010,28005,Arquà Petrarca,148.8
 2010,28006,Arre,175.73
@@ -12133,7 +12133,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2010,28013,Borgoricco,413.56
 2010,28014,Bovolenta,149.7
 2010,28015,Brugine,355.51
-2010,28016,Cadoneghe,510.47
+2010,28016,Cadoneghe,1250.47
 2010,28017,Campodarsego,548.48
 2010,28018,Campodoro,244.38
 2010,28019,Camposampiero,578.72
@@ -12173,9 +12173,9 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2010,28055,Monselice,348.83
 2010,28056,Montagnana,210.75
 2010,28057,Montegrotto Terme,730.78
-2010,28058,Noventa Padovana,936.94
+2010,28058,Noventa Padovana,1516.94
 2010,28059,Ospedaletto Euganeo,277.71
-2010,28060,Padova,705.68
+2010,28060,Padova,2305.68
 2010,28061,Pernumia,300.61
 2010,28062,Piacenza d'Adige,75.65
 2010,28063,Piazzola sul Brenta,270.7
@@ -12187,7 +12187,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2010,28069,Ponte San Nicolò,987.4
 2010,28070,Pozzonovo,150.78
 2010,28071,Rovolon,173.44
-2010,28072,Rubano,208.9
+2010,28072,Rubano,1068.9
 2010,28073,Saccolongo,358.83
 2010,28074,Saletto,254.72
 2010,28075,San Giorgio delle Pertiche,533.46
@@ -12201,7 +12201,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2010,28083,Sant'Elena,266.85
 2010,28084,Sant'Urbano,68.49
 2010,28085,Saonara,746.15
-2010,28086,Selvazzano Dentro,318.1
+2010,28086,Selvazzano Dentro,1138.1
 2010,28087,Solesino,702.82
 2010,28088,Stanghella,223.5
 2010,28089,Teolo,287.75
@@ -12292,7 +12292,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2011,23018,Caprino Veronese,170.17
 2011,23019,Casaleone,154.54
 2011,23020,Castagnaro,113.26
-2011,23021,Castel d'Azzano,426.19
+2011,23021,Castel d'Azzano,1206.19
 2011,23022,Castelnuovo del Garda,353.79
 2011,23023,Cavaion Veronese,426.67
 2011,23024,Cazzano di Tramigna,126.26
@@ -12342,7 +12342,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2011,23068,Salizzole,122.68
 2011,23069,San Bonifacio,599.2
 2011,23070,San Giovanni Ilarione,202.9
-2011,23071,San Giovanni Lupatoto,535.19
+2011,23071,San Giovanni Lupatoto,1275.19
 2011,23072,Sanguinetto,303.38
 2011,23073,San Martino Buon Albergo,404.5
 2011,23074,San Mauro di Saline,49.82
@@ -12362,7 +12362,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2011,23088,Trevenzuolo,100.93
 2011,23089,Valeggio sul Mincio,224.5
 2011,23090,Velo Veronese,40.63
-2011,23091,Verona,438.39
+2011,23091,Verona,1218.39
 2011,23092,Veronella,225.38
 2011,23093,Vestenanova,109.37
 2011,23094,Vigasio,307.5
@@ -12395,7 +12395,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2011,24023,Campolongo sul Brenta,86.8
 2011,24024,Carrè,416.67
 2011,24025,Cartigliano,506.8
-2011,24026,Cassola,250.8
+2011,24026,Cassola,1110.8
 2011,24027,Castegnero,247.84
 2011,24028,Castelgomberto,353.24
 2011,24029,Chiampo,566.74
@@ -12405,7 +12405,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2011,24033,Conco,80.51
 2011,24034,Cornedo Vicentino,508.4
 2011,24035,Costabissara,542.58
-2011,24036,Creazzo,129.44
+2011,24036,Creazzo,1029.44
 2011,24037,Crespadoro,48.27
 2011,24038,Dueville,691.0
 2011,24039,Enego,34.17
@@ -12474,7 +12474,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2011,24102,Sossano,209.19
 2011,24103,Sovizzo,451.8
 2011,24104,Tezze sul Brenta,700.22
-2011,24105,Thiene,353.79
+2011,24105,Thiene,1173.79
 2011,24106,Tonezza del Cimone,39.79
 2011,24107,Torrebelvicino,287.33
 2011,24108,Torri di Quartesolo,625.94
@@ -12484,7 +12484,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2011,24113,Valli del Pasubio,67.36
 2011,24114,Valstagna,72.68
 2011,24115,Velo d'Astico,108.82
-2011,24116,Vicenza,719.93
+2011,24116,Vicenza,1379.93
 2011,24117,Villaga,84.57
 2011,24118,Villaverla,392.23
 2011,24119,Zanè,871.58
@@ -12645,7 +12645,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2011,26083,Susegana,265.89
 2011,26084,Tarzo,192.31
 2011,26085,Trevignano,397.26
-2011,26086,Treviso,839.93
+2011,26086,Treviso,1459.93
 2011,26087,Valdobbiadene,176.28
 2011,26088,Vazzola,269.69
 2011,26089,Vedelago,265.69
@@ -12668,14 +12668,14 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2011,27011,Concordia Sagittaria,154.97
 2011,27012,Dolo,619.3
 2011,27013,Eraclea,133.26
-2011,27014,Fiesso d'Artico,447.46
+2011,27014,Fiesso d'Artico,1227.46
 2011,27015,Fossalta di Piave,434.64
 2011,27016,Fossalta di Portogruaro,191.92
 2011,27017,Fossò,673.47
 2011,27018,Gruaro,163.26
 2011,27019,Jesolo,255.43
 2011,27020,Marcon,635.43
-2011,27021,Martellago,151.99
+2011,27021,Martellago,1051.99
 2011,27022,Meolo,242.32
 2011,27023,Mira,389.9
 2011,27024,Mirano,578.53
@@ -12692,7 +12692,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2011,27035,Santa Maria di Sala,618.5
 2011,27036,San Stino di Livenza,191.64
 2011,27037,Scorzè,567.66
-2011,27038,Spinea,1411.8
+2011,27038,Spinea,1791.8
 2011,27039,Stra,858.98
 2011,27040,Teglio Veneto,201.3
 2011,27041,Torre di Mosto,123.55
@@ -12701,7 +12701,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2011,27044,Cavallino-Treporti,293.7
 2011,28001,Abano Terme,893.89
 2011,28002,Agna,181.6
-2011,28003,Albignasego,302.24
+2011,28003,Albignasego,1122.24
 2011,28004,Anguillara Veneta,212.93
 2011,28005,Arquà Petrarca,147.36
 2011,28006,Arre,176.69
@@ -12714,7 +12714,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2011,28013,Borgoricco,412.34
 2011,28014,Bovolenta,147.93
 2011,28015,Brugine,346.94
-2011,28016,Cadoneghe,455.97
+2011,28016,Cadoneghe,1235.97
 2011,28017,Campodarsego,554.14
 2011,28018,Campodoro,242.86
 2011,28019,Camposampiero,570.33
@@ -12754,9 +12754,9 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2011,28055,Monselice,344.71
 2011,28056,Montagnana,208.3
 2011,28057,Montegrotto Terme,723.73
-2011,28058,Noventa Padovana,929.72
+2011,28058,Noventa Padovana,1509.72
 2011,28059,Ospedaletto Euganeo,274.2
-2011,28060,Padova,533.47
+2011,28060,Padova,2213.47
 2011,28061,Pernumia,295.91
 2011,28062,Piacenza d'Adige,73.87
 2011,28063,Piazzola sul Brenta,268.5
@@ -12768,7 +12768,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2011,28069,Ponte San Nicolò,981.26
 2011,28070,Pozzonovo,148.16
 2011,28071,Rovolon,173.84
-2011,28072,Rubano,214.73
+2011,28072,Rubano,1074.73
 2011,28073,Saccolongo,359.93
 2011,28074,Saletto,253.6
 2011,28075,San Giorgio delle Pertiche,531.49
@@ -12782,7 +12782,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2011,28083,Sant'Elena,272.13
 2011,28084,Sant'Urbano,68.5
 2011,28085,Saonara,745.85
-2011,28086,Selvazzano Dentro,307.14
+2011,28086,Selvazzano Dentro,1127.14
 2011,28087,Solesino,694.56
 2011,28088,Stanghella,219.34
 2011,28089,Teolo,285.14
@@ -12873,7 +12873,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2012,23018,Caprino Veronese,172.75
 2012,23019,Casaleone,154.91
 2012,23020,Castagnaro,111.76
-2012,23021,Castel d'Azzano,434.64
+2012,23021,Castel d'Azzano,1214.64
 2012,23022,Castelnuovo del Garda,366.5
 2012,23023,Cavaion Veronese,436.36
 2012,23024,Cazzano di Tramigna,126.42
@@ -12923,7 +12923,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2012,23068,Salizzole,122.52
 2012,23069,San Bonifacio,607.82
 2012,23070,San Giovanni Ilarione,204.31
-2012,23071,San Giovanni Lupatoto,557.62
+2012,23071,San Giovanni Lupatoto,1297.62
 2012,23072,Sanguinetto,302.6
 2012,23073,San Martino Buon Albergo,410.51
 2012,23074,San Mauro di Saline,50.27
@@ -12943,7 +12943,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2012,23088,Trevenzuolo,101.67
 2012,23089,Valeggio sul Mincio,229.88
 2012,23090,Velo Veronese,40.31
-2012,23091,Verona,445.97
+2012,23091,Verona,1225.97
 2012,23092,Veronella,233.51
 2012,23093,Vestenanova,109.12
 2012,23094,Vigasio,313.67
@@ -12976,7 +12976,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2012,24023,Campolongo sul Brenta,87.32
 2012,24024,Carrè,423.1
 2012,24025,Cartigliano,507.47
-2012,24026,Cassola,258.9
+2012,24026,Cassola,1118.9
 2012,24027,Castegnero,253.2
 2012,24028,Castelgomberto,354.45
 2012,24029,Chiampo,569.7
@@ -12986,7 +12986,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2012,24033,Conco,81.61
 2012,24034,Cornedo Vicentino,510.94
 2012,24035,Costabissara,552.35
-2012,24036,Creazzo,134.39
+2012,24036,Creazzo,1034.39
 2012,24037,Crespadoro,47.8
 2012,24038,Dueville,694.28
 2012,24039,Enego,33.45
@@ -13055,7 +13055,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2012,24102,Sossano,210.71
 2012,24103,Sovizzo,461.85
 2012,24104,Tezze sul Brenta,709.28
-2012,24105,Thiene,400.66
+2012,24105,Thiene,1180.66
 2012,24106,Tonezza del Cimone,36.46
 2012,24107,Torrebelvicino,288.38
 2012,24108,Torri di Quartesolo,631.82
@@ -13065,7 +13065,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2012,24113,Valli del Pasubio,67.48
 2012,24114,Valstagna,71.81
 2012,24115,Velo d'Astico,110.9
-2012,24116,Vicenza,749.91
+2012,24116,Vicenza,1409.91
 2012,24117,Villaga,84.9
 2012,24118,Villaverla,391.21
 2012,24119,Zanè,873.29
@@ -13226,7 +13226,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2012,26083,Susegana,269.61
 2012,26084,Tarzo,191.5
 2012,26085,Trevignano,402.44
-2012,26086,Treviso,905.8
+2012,26086,Treviso,1485.8
 2012,26087,Valdobbiadene,175.12
 2012,26088,Vazzola,270.8
 2012,26089,Vedelago,267.46
@@ -13249,14 +13249,14 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2012,27011,Concordia Sagittaria,154.36
 2012,27012,Dolo,621.3
 2012,27013,Eraclea,132.2
-2012,27014,Fiesso d'Artico,513.2
+2012,27014,Fiesso d'Artico,1253.2
 2012,27015,Fossalta di Piave,434.64
 2012,27016,Fossalta di Portogruaro,190.63
 2012,27017,Fossò,686.34
 2012,27018,Gruaro,163.72
 2012,27019,Jesolo,257.15
 2012,27020,Marcon,648.16
-2012,27021,Martellago,206.77
+2012,27021,Martellago,1066.77
 2012,27022,Meolo,241.8
 2012,27023,Mira,391.2
 2012,27024,Mirano,584.28
@@ -13273,7 +13273,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2012,27035,Santa Maria di Sala,624.0
 2012,27036,San Stino di Livenza,191.34
 2012,27037,Scorzè,566.7
-2012,27038,Spinea,1428.4
+2012,27038,Spinea,1808.4
 2012,27039,Stra,868.64
 2012,27040,Teglio Veneto,202.7
 2012,27041,Torre di Mosto,124.28
@@ -13282,7 +13282,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2012,27044,Cavallino-Treporti,297.97
 2012,28001,Abano Terme,915.23
 2012,28002,Agna,179.15
-2012,28003,Albignasego,329.52
+2012,28003,Albignasego,1149.52
 2012,28004,Anguillara Veneta,211.35
 2012,28005,Arquà Petrarca,146.96
 2012,28006,Arre,178.87
@@ -13295,7 +13295,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2012,28013,Borgoricco,416.49
 2012,28014,Bovolenta,148.37
 2012,28015,Brugine,349.34
-2012,28016,Cadoneghe,505.35
+2012,28016,Cadoneghe,1245.35
 2012,28017,Campodarsego,559.61
 2012,28018,Campodoro,243.57
 2012,28019,Camposampiero,573.3
@@ -13335,9 +13335,9 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2012,28055,Monselice,347.74
 2012,28056,Montagnana,208.45
 2012,28057,Montegrotto Terme,728.37
-2012,28058,Noventa Padovana,942.36
+2012,28058,Noventa Padovana,1522.36
 2012,28059,Ospedaletto Euganeo,274.3
-2012,28060,Padova,550.84
+2012,28060,Padova,2230.84
 2012,28061,Pernumia,296.44
 2012,28062,Piacenza d'Adige,73.44
 2012,28063,Piazzola sul Brenta,269.35
@@ -13349,7 +13349,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2012,28069,Ponte San Nicolò,992.37
 2012,28070,Pozzonovo,147.67
 2012,28071,Rovolon,177.43
-2012,28072,Rubano,231.51
+2012,28072,Rubano,1091.51
 2012,28073,Saccolongo,362.99
 2012,28074,Saletto,255.65
 2012,28075,San Giorgio delle Pertiche,534.73
@@ -13363,7 +13363,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2012,28083,Sant'Elena,275.62
 2012,28084,Sant'Urbano,67.42
 2012,28085,Saonara,750.89
-2012,28086,Selvazzano Dentro,318.27
+2012,28086,Selvazzano Dentro,1138.27
 2012,28087,Solesino,693.2
 2012,28088,Stanghella,215.84
 2012,28089,Teolo,287.27
@@ -13454,7 +13454,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2013,23018,Caprino Veronese,174.8
 2013,23019,Casaleone,154.96
 2013,23020,Castagnaro,109.74
-2013,23021,Castel d'Azzano,435.57
+2013,23021,Castel d'Azzano,1215.57
 2013,23022,Castelnuovo del Garda,371.99
 2013,23023,Cavaion Veronese,446.12
 2013,23024,Cazzano di Tramigna,127.24
@@ -13504,7 +13504,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2013,23068,Salizzole,123.79
 2013,23069,San Bonifacio,620.88
 2013,23070,San Giovanni Ilarione,203.87
-2013,23071,San Giovanni Lupatoto,615.3
+2013,23071,San Giovanni Lupatoto,1315.3
 2013,23072,Sanguinetto,305.7
 2013,23073,San Martino Buon Albergo,417.45
 2013,23074,San Mauro di Saline,50.45
@@ -13524,7 +13524,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2013,23088,Trevenzuolo,103.41
 2013,23089,Valeggio sul Mincio,232.42
 2013,23090,Velo Veronese,40.52
-2013,23091,Verona,517.7
+2013,23091,Verona,1257.7
 2013,23092,Veronella,235.82
 2013,23093,Vestenanova,108.66
 2013,23094,Vigasio,319.51
@@ -13557,7 +13557,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2013,24023,Campolongo sul Brenta,84.43
 2013,24024,Carrè,421.49
 2013,24025,Cartigliano,504.67
-2013,24026,Cassola,326.93
+2013,24026,Cassola,1146.93
 2013,24027,Castegnero,253.2
 2013,24028,Castelgomberto,355.78
 2013,24029,Chiampo,572.29
@@ -13567,7 +13567,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2013,24033,Conco,80.66
 2013,24034,Cornedo Vicentino,514.55
 2013,24035,Costabissara,559.55
-2013,24036,Creazzo,148.22
+2013,24036,Creazzo,1048.22
 2013,24037,Crespadoro,46.11
 2013,24038,Dueville,697.71
 2013,24039,Enego,33.8
@@ -13636,7 +13636,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2013,24102,Sossano,209.52
 2013,24103,Sovizzo,468.79
 2013,24104,Tezze sul Brenta,713.56
-2013,24105,Thiene,428.43
+2013,24105,Thiene,1208.43
 2013,24106,Tonezza del Cimone,37.29
 2013,24107,Torrebelvicino,286.29
 2013,24108,Torri di Quartesolo,637.49
@@ -13646,7 +13646,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2013,24113,Valli del Pasubio,66.96
 2013,24114,Valstagna,72.64
 2013,24115,Velo d'Astico,110.45
-2013,24116,Vicenza,750.11
+2013,24116,Vicenza,1410.11
 2013,24117,Villaga,84.31
 2013,24118,Villaverla,392.8
 2013,24119,Zanè,875.13
@@ -13807,7 +13807,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2013,26083,Susegana,273.82
 2013,26084,Tarzo,189.92
 2013,26085,Trevignano,405.41
-2013,26086,Treviso,918.11
+2013,26086,Treviso,1498.11
 2013,26087,Valdobbiadene,173.95
 2013,26088,Vazzola,270.31
 2013,26089,Vedelago,270.99
@@ -13830,14 +13830,14 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2013,27011,Concordia Sagittaria,153.67
 2013,27012,Dolo,627.11
 2013,27013,Eraclea,132.45
-2013,27014,Fiesso d'Artico,524.13
+2013,27014,Fiesso d'Artico,1264.13
 2013,27015,Fossalta di Piave,433.51
 2013,27016,Fossalta di Portogruaro,192.56
 2013,27017,Fossò,691.68
 2013,27018,Gruaro,164.42
 2013,27019,Jesolo,268.4
 2013,27020,Marcon,662.34
-2013,27021,Martellago,210.4
+2013,27021,Martellago,1070.4
 2013,27022,Meolo,242.32
 2013,27023,Mira,393.5
 2013,27024,Mirano,594.8
@@ -13854,7 +13854,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2013,27035,Santa Maria di Sala,627.18
 2013,27036,San Stino di Livenza,191.4
 2013,27037,Scorzè,569.61
-2013,27038,Spinea,1454.13
+2013,27038,Spinea,1834.13
 2013,27039,Stra,873.3
 2013,27040,Teglio Veneto,199.22
 2013,27041,Torre di Mosto,124.7
@@ -13863,7 +13863,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2013,27044,Cavallino-Treporti,301.5
 2013,28001,Abano Terme,921.71
 2013,28002,Agna,181.12
-2013,28003,Albignasego,408.14
+2013,28003,Albignasego,1188.14
 2013,28004,Anguillara Veneta,209.86
 2013,28005,Arquà Petrarca,147.68
 2013,28006,Arre,177.58
@@ -13876,7 +13876,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2013,28013,Borgoricco,423.8
 2013,28014,Bovolenta,150.88
 2013,28015,Brugine,354.85
-2013,28016,Cadoneghe,512.17
+2013,28016,Cadoneghe,1252.17
 2013,28017,Campodarsego,570.39
 2013,28018,Campodoro,242.68
 2013,28019,Camposampiero,577.63
@@ -13916,9 +13916,9 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2013,28055,Monselice,349.29
 2013,28056,Montagnana,207.49
 2013,28057,Montegrotto Terme,733.46
-2013,28058,Noventa Padovana,1018.6
+2013,28058,Noventa Padovana,1558.6
 2013,28059,Ospedaletto Euganeo,274.53
-2013,28060,Padova,617.3
+2013,28060,Padova,2257.3
 2013,28061,Pernumia,296.21
 2013,28062,Piacenza d'Adige,73.76
 2013,28063,Piazzola sul Brenta,272.0
@@ -13930,7 +13930,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2013,28069,Ponte San Nicolò,999.41
 2013,28070,Pozzonovo,148.16
 2013,28071,Rovolon,177.64
-2013,28072,Rubano,238.77
+2013,28072,Rubano,1098.77
 2013,28073,Saccolongo,362.63
 2013,28074,Saletto,255.74
 2013,28075,San Giorgio delle Pertiche,542.55
@@ -13944,7 +13944,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2013,28083,Sant'Elena,279.1
 2013,28084,Sant'Urbano,66.82
 2013,28085,Saonara,760.22
-2013,28086,Selvazzano Dentro,336.33
+2013,28086,Selvazzano Dentro,1156.33
 2013,28087,Solesino,687.48
 2013,28088,Stanghella,216.14
 2013,28089,Teolo,289.0
@@ -14035,7 +14035,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2014,23018,Caprino Veronese,176.2
 2014,23019,Casaleone,152.55
 2014,23020,Castagnaro,108.33
-2014,23021,Castel d'Azzano,435.33
+2014,23021,Castel d'Azzano,1215.33
 2014,23022,Castelnuovo del Garda,378.1
 2014,23023,Cavaion Veronese,447.95
 2014,23024,Cazzano di Tramigna,126.49
@@ -14085,7 +14085,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2014,23068,Salizzole,122.54
 2014,23069,San Bonifacio,628.17
 2014,23070,San Giovanni Ilarione,202.13
-2014,23071,San Giovanni Lupatoto,614.62
+2014,23071,San Giovanni Lupatoto,1314.62
 2014,23072,Sanguinetto,305.3
 2014,23073,San Martino Buon Albergo,426.73
 2014,23074,San Mauro di Saline,51.33
@@ -14105,7 +14105,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2014,23088,Trevenzuolo,102.49
 2014,23089,Valeggio sul Mincio,233.32
 2014,23090,Velo Veronese,41.11
-2014,23091,Verona,607.69
+2014,23091,Verona,1307.69
 2014,23092,Veronella,237.84
 2014,23093,Vestenanova,107.82
 2014,23094,Vigasio,323.63
@@ -14138,7 +14138,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2014,24023,Campolongo sul Brenta,84.87
 2014,24024,Carrè,413.5
 2014,24025,Cartigliano,516.12
-2014,24026,Cassola,333.22
+2014,24026,Cassola,1153.22
 2014,24027,Castegnero,254.13
 2014,24028,Castelgomberto,353.73
 2014,24029,Chiampo,574.82
@@ -14148,7 +14148,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2014,24033,Conco,80.97
 2014,24034,Cornedo Vicentino,512.69
 2014,24035,Costabissara,563.98
-2014,24036,Creazzo,210.3
+2014,24036,Creazzo,1070.3
 2014,24037,Crespadoro,45.46
 2014,24038,Dueville,698.8
 2014,24039,Enego,32.64
@@ -14217,7 +14217,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2014,24102,Sossano,211.82
 2014,24103,Sovizzo,471.78
 2014,24104,Tezze sul Brenta,714.95
-2014,24105,Thiene,454.97
+2014,24105,Thiene,1234.97
 2014,24106,Tonezza del Cimone,38.45
 2014,24107,Torrebelvicino,288.4
 2014,24108,Torri di Quartesolo,636.58
@@ -14227,7 +14227,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2014,24113,Valli del Pasubio,66.2
 2014,24114,Valstagna,70.86
 2014,24115,Velo d'Astico,110.78
-2014,24116,Vicenza,749.94
+2014,24116,Vicenza,1409.94
 2014,24117,Villaga,83.0
 2014,24118,Villaverla,390.18
 2014,24119,Zanè,872.81
@@ -14386,7 +14386,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2014,26083,Susegana,271.0
 2014,26084,Tarzo,185.95
 2014,26085,Trevignano,406.64
-2014,26086,Treviso,925.7
+2014,26086,Treviso,1505.7
 2014,26087,Valdobbiadene,167.36
 2014,26088,Vazzola,267.62
 2014,26089,Vedelago,272.13
@@ -14409,14 +14409,14 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2014,27011,Concordia Sagittaria,156.27
 2014,27012,Dolo,621.87
 2014,27013,Eraclea,130.9
-2014,27014,Fiesso d'Artico,539.71
+2014,27014,Fiesso d'Artico,1279.71
 2014,27015,Fossalta di Piave,431.64
 2014,27016,Fossalta di Portogruaro,195.5
 2014,27017,Fossò,684.87
 2014,27018,Gruaro,161.1
 2014,27019,Jesolo,269.98
 2014,27020,Marcon,675.85
-2014,27021,Martellago,205.64
+2014,27021,Martellago,1065.64
 2014,27022,Meolo,242.58
 2014,27023,Mira,391.15
 2014,27024,Mirano,592.92
@@ -14433,7 +14433,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2014,27035,Santa Maria di Sala,628.59
 2014,27036,San Stino di Livenza,190.6
 2014,27037,Scorzè,567.38
-2014,27038,Spinea,1517.89
+2014,27038,Spinea,1857.89
 2014,27039,Stra,870.75
 2014,27040,Teglio Veneto,200.9
 2014,27041,Torre di Mosto,124.61
@@ -14442,7 +14442,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2014,27044,Cavallino-Treporti,303.13
 2014,28001,Abano Terme,932.55
 2014,28002,Agna,179.89
-2014,28003,Albignasego,418.72
+2014,28003,Albignasego,1198.72
 2014,28004,Anguillara Veneta,207.43
 2014,28005,Arquà Petrarca,148.24
 2014,28006,Arre,175.69
@@ -14455,7 +14455,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2014,28013,Borgoricco,426.83
 2014,28014,Bovolenta,153.29
 2014,28015,Brugine,357.75
-2014,28016,Cadoneghe,517.85
+2014,28016,Cadoneghe,1257.85
 2014,28017,Campodarsego,567.96
 2014,28018,Campodoro,241.0
 2014,28019,Camposampiero,577.37
@@ -14495,9 +14495,9 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2014,28055,Monselice,349.52
 2014,28056,Montagnana,206.0
 2014,28057,Montegrotto Terme,732.53
-2014,28058,Noventa Padovana,1049.97
+2014,28058,Noventa Padovana,1589.97
 2014,28059,Ospedaletto Euganeo,271.51
-2014,28060,Padova,630.34
+2014,28060,Padova,2270.34
 2014,28061,Pernumia,293.25
 2014,28062,Piacenza d'Adige,72.69
 2014,28063,Piazzola sul Brenta,275.23
@@ -14509,7 +14509,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2014,28069,Ponte San Nicolò,997.49
 2014,28070,Pozzonovo,148.2
 2014,28071,Rovolon,178.4
-2014,28072,Rubano,250.96
+2014,28072,Rubano,1110.96
 2014,28073,Saccolongo,359.35
 2014,28074,Saletto,257.64
 2014,28075,San Giorgio delle Pertiche,542.15
@@ -14523,7 +14523,7 @@ Anno,Codice Istat,Comune,Densità (popolazione/superficie)
 2014,28083,Sant'Elena,275.56
 2014,28084,Sant'Urbano,66.26
 2014,28085,Saonara,758.5
-2014,28086,Selvazzano Dentro,351.41
+2014,28086,Selvazzano Dentro,1171.41
 2014,28087,Solesino,698.72
 2014,28088,Stanghella,212.67
 2014,28089,Teolo,289.55
