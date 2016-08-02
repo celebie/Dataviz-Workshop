@@ -10,7 +10,14 @@ Fonte Dati: [Densità Territoriale](http://dati.veneto.it/dataset/densita-territ
 * drawData();
 * mousePressed();
 
+### tempo_02_displaydata
+* drawGUI();
+* drawData();
+
+### tempo_03_displaydata
+* beginShape(), vertext(), endShape();
+
 ## TODO
 * da rivedere esercizio tempo_01_filtercsv per dividere in più esercizi?
 * Interazione: frecce per scorrere
-* Miglioramento: inserire tutti i dati in un unico array per poter migliorare la visualizzazione
+* Implementazione funzione zoom
