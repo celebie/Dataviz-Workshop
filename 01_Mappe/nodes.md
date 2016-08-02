@@ -58,7 +58,7 @@ Riprendendo lo sketch_04_displaydata, ora i dati di ciascuna regione vengono vis
 * Inserimento della legenda
 * displayData più chiara e semplice
 
-## TODO
-* Visualizzazione dei dati per ciascuna provincia -> Bar Graph per evidenziare differenze tipologie
+### sketch_08_piechart_interactive
+Evoluzione dello sketch_04_displaydata e dello sketch_07_piechart; versione interattiva.
 * Interazione con mouse: se mouseOver, disegnare Bar Graph in alto
-* Interazione con mouse 2: se mouseOver, ingrandire cerchio e disegnare [PieChart](https://processing.org/examples/piechart.html) diviso per tipologie
+* Visualizzazione dei dati per ciascuna provincia -> Bar Graph per evidenziare differenze tipologie
