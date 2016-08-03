@@ -23,6 +23,14 @@ Fonte Dati: [Densità Territoriale](http://dati.veneto.it/dataset/densita-territ
 ### tempo_05_multipledata
 Programma in parte riscritto per permettere la visualizzazione in contemporanea di dati diversi.
 
+### tempo_06_multipledata_font
+* Array di Colori
+* PFont, createFont
+
+### tempo_07_multipledata_exportPDF
+* Esportazione PDF
+* textMode(MODEL); -> Illustrator
+
 ## TODO
 * da rivedere esercizio tempo_01_filtercsv per dividere in più esercizi?
 * Interazione: frecce per scorrere

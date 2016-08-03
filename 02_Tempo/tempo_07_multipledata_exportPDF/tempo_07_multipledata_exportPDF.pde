@@ -1,6 +1,8 @@
+import processing.pdf.*;
+
 /*
  * Data Visualization Workshop
- * Esempio 2: Tempo - 05_multipledata
+ * Esempio 2: Tempo - 07_multipledata_exportPDF
  * by Federico Pepe
  */
 
@@ -23,20 +25,28 @@ FloatList allData = new FloatList();
 int padding = 75;
 
 int[] istatArray = {23091, 24116, 28060, 26086, 27042, 29041, 25006 };
+color[] colorArray = {#7fc97f, #beaed4, #fdc086, #ffff99, #386cb0, #f0027f, #bf5b17};
 
+PFont myFont;
 
 void setup() {
-  size(1000, 700);
+  size(1000, 700, PDF, "Export.pdf");
+  textMode(MODEL);
   pixelDensity(2);
+  myFont = createFont("Avenir-Book", 32);
+  textFont(myFont);
+  noLoop();
 }
 
 void draw() {
+  
   cityName = "";
   getData();
   drawGUI();
 
   for (int i = 0; i < istatArray.length; i++) {
     codiceIstat = istatArray[i];
+    stroke(colorArray[i]);
     getData();
     highLightData();
     drawData();
@@ -51,6 +61,7 @@ void draw() {
   textSize(24);
   fill(0);
   text(cityName, padding/2, padding-30);
+  exit();
 }
 
 void highLightData() {
@@ -68,7 +79,7 @@ void highLightData() {
 }
 
 void drawData() {
-  stroke(0);
+  
   strokeWeight(2);
   noFill();
   float xPos;
@@ -78,7 +89,7 @@ void drawData() {
     
     xPos = map(float(data.keyArray()[i]), yearMin, yearMax, padding, width-padding);
     yPos = map(data.valueArray()[i], dataMin, dataMax, height-padding, padding);
-    ellipse(xPos, yPos, 2, 2);
+    ellipse(xPos, yPos, 5, 5);
     vertex(xPos, yPos);
     if (i == data.size()-1) {
       textSize(12);
