@@ -17,7 +17,12 @@ Fonte Dati: [Densità Territoriale](http://dati.veneto.it/dataset/densita-territ
 ### tempo_03_displaydata
 * beginShape(), vertext(), endShape();
 
+### tempo_04_displayzoom
+* Implementazione funzione zoom
+
+### tempo_05_multipledata
+Programma in parte riscritto per permettere la visualizzazione in contemporanea di dati diversi.
+
 ## TODO
 * da rivedere esercizio tempo_01_filtercsv per dividere in più esercizi?
 * Interazione: frecce per scorrere
-* Implementazione funzione zoom

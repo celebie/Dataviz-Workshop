@@ -1,6 +1,6 @@
- /*
+/*
  * Data Visualization Workshop
- * Esempio 2: Tempo - 02_displayData
+ * Esempio 2: Tempo - 04_displayData
  * by Federico Pepe
  */
 
@@ -22,6 +22,8 @@ FloatList allData = new FloatList();
 
 int padding = 75;
 
+boolean zoom = false;
+
 void setup() {
   size(1000, 700);
   pixelDensity(2);
@@ -36,20 +38,23 @@ void draw() {
 void drawData() {
 
   stroke(0);
-  strokeWeight(5);
-
+  strokeWeight(1);
+  noFill();
   float xPos;
   float yPos;
-
+  beginShape();
   for (int i = 0; i < data.size(); i++) {
     xPos = map(float(data.keyArray()[i]), yearMin, yearMax, padding, width-padding);
     yPos = map(data.valueArray()[i], dataMin, dataMax, height-padding, padding);
-    point(xPos, yPos);
+    ellipse(xPos, yPos, 2, 2);
+    vertex(xPos, yPos);
   }
+  endShape();
 }
 
 void drawGUI() {
   background(255);
+
   // TITLE
   textAlign(LEFT);
   textSize(24);
@@ -60,27 +65,47 @@ void drawGUI() {
   stroke(0, 50);
   fill(127);
 
+  int increment;
+
+  if (zoom) {
+    increment = 1;
+  } else {
+    increment = 25;
+  }
+
   // HORIZONTAL LINE
   for (int i = yearMin; i <= yearMax; i++) {
     float xPos = map(i, yearMin, yearMax, padding, width-padding);
+
+    if (i % 5 == 0) {
+      textSize(10);
+      textAlign(CENTER);
+      text(i, xPos, (height-padding)+20);
+      strokeWeight(2);
+    } else {
+      strokeWeight(1);
+    }
     line(xPos, padding, xPos, height-padding);
-    textSize(10);
-    textAlign(CENTER);
-    text(i, xPos, (height-padding)+20);
   }
   // VERTICAL
-  for (int i = round(dataMin); i <= round(dataMax); i+= 25) {
+  for (int i = floor(dataMin); i <= floor(dataMax); i+= increment) {
     float yPos = map(i, dataMin, dataMax, height-padding, padding);
-    if (i % 125 == 0 && i != 0) {
-      stroke(0, 50);
-      line(padding, yPos, width-padding, yPos);
-      textAlign(RIGHT);
-      text(i, padding-10, yPos+2);
-    } else {
-      stroke(0, 15);
-      line(padding, yPos, width-padding, yPos);
+    if (yPos <= height-padding && yPos >= padding) {
+      if (i % (increment*4) == 0 && i != 0) {
+        stroke(0, 50);
+        line(padding, yPos, width-padding, yPos);
+        textAlign(RIGHT);
+        text(i, padding-10, yPos+2);
+      } else {
+        stroke(0, 15);
+        line(padding, yPos, width-padding, yPos);
+      }
     }
   }
+
+  textSize(12);
+  textAlign(CENTER);
+  text("Densità territoriali (popolazione/superficie in kmq) dei comuni del Veneto 1990-2014, dati Open Data Veneto", width/2, height-padding/3);
 }
 
 void getData() {
@@ -104,12 +129,14 @@ void getData() {
     }
   }
   cityName = codiciIstat.get(str(codiceIstat));
-
-  //dataMin = min(data.valueArray());
-  //dataMax = max(data.valueArray());
-
-  dataMin = allData.min();
-  dataMax = allData.max();
+  // ENABLE ZOOM
+  if (zoom) {
+    dataMin = min(data.valueArray());
+    dataMax = max(data.valueArray());
+  } else {
+    dataMin = allData.min();
+    dataMax = allData.max();
+  }
 }
 
 void mousePressed() {
@@ -120,4 +147,13 @@ void mousePressed() {
   getData();
   drawGUI();
   drawData();
+}
+
+void keyPressed() {
+  if (key == 'z') {
+    zoom = !zoom;
+    getData();
+    drawGUI();
+    drawData();
+  }
 }
