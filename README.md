@@ -20,3 +20,6 @@ Nell’era dei Big Data chi fa informazione si deve scontrare con un nuovo probl
 * [Le mappe del sapere](https://www.amazon.it/linguaggi-Linfografica-ridisegna-conoscenze-novembre-14/dp/8817078077)
 * [The Top 51 Data Visualization Influencers](http://visualmatters.com/top-data-visualization-influencers/)
 * [Finding the Right Color Palettes for Data Visualization](https://blog.graphiq.com/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283)
+* [Reporter App](http://www.reporter-app.com)
+* [U.S Government's Open Data](https://www.data.gov)
+* [Open Weather API](http://openweathermap.org/api)
