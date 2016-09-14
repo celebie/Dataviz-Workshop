@@ -25,6 +25,7 @@ void setup() {
   noLoop();
   
   getData();
+  drawGUI();
   
 }
 
@@ -64,8 +65,6 @@ void getData() {
   sunrise = getDate(json.getJSONObject("sys").getInt("sunrise"));
   sunset = getDate(json.getJSONObject("sys").getInt("sunset"));
   
-  drawGUI();
-  
 }
 
 float kelvinToCelsius(float temp) {
@@ -81,4 +80,5 @@ String getDate(int unix) {
 
 void mousePressed() {
   getData();
+  drawGUI();
 }
