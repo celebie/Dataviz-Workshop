@@ -29,7 +29,6 @@ PFont myFont;
 
 void setup() {
   size(1000, 700);
-  pixelDensity(2);
   myFont = createFont("Avenir-Book", 32);
   textFont(myFont);
 }

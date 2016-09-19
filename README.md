@@ -23,3 +23,4 @@ Nell’era dei Big Data chi fa informazione si deve scontrare con un nuovo probl
 * [Reporter App](http://www.reporter-app.com)
 * [U.S Government's Open Data](https://www.data.gov)
 * [Open Weather API](http://openweathermap.org/api)
+* [I kept a record of every single song I listened to last year. Here’s the data](https://medium.freecodecamp.com/how-i-logged-every-song-for-a-year-8e965d3de5d1)

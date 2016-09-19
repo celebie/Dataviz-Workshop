@@ -26,7 +26,6 @@ boolean zoom = false;
 
 void setup() {
   size(1000, 700);
-  pixelDensity(2);
   getData();
   drawGUI();
   drawData();

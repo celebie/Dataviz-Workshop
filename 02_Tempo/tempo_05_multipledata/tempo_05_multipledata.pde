@@ -27,7 +27,6 @@ int[] istatArray = {23091, 24116, 28060, 26086, 27042, 29041, 25006 };
 
 void setup() {
   size(1000, 700);
-  pixelDensity(2);
 }
 
 void draw() {
