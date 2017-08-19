@@ -6,6 +6,9 @@
 
 JSONObject json;
 
+// API KEY
+//String APIKEY = "***INSERISCI QUI LA TUA CHIAVE***";
+
 String queryUrl = "http://api.openweathermap.org/data/2.5/weather?q=Verona,it&APPID="+APIKEY;
 
 void setup() {
